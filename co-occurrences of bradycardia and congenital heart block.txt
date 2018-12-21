@@ -1,0 +1,2737 @@
+
+1. Medicine (Baltimore). 2018 Nov;97(45):e13185. doi: 10.1097/MD.0000000000013185.
+
+Two case reports of neonatal autoantibody-associated congenital heart block.
+
+Li X(1), Huang X(2), Lu H.
+
+Author information: 
+(1)Department of Neonatal Intensive Care Unit.
+(2)Department of Pediatrics, Affiliated Hangzhou First People's Hospital,
+Zhejiang University School of Medicine, Hangzhou, China.
+
+RATIONALE: Neonatal lupus erythematosus (NLE) is an infrequent disease caused by 
+transplacental maternal autoantibodies. The most common effects of NLE include
+cutaneous involvement and congenital heart block (CHB), although it might involve
+multiple organs, such as the liver, lungs, blood, and nervous or digestive
+systems. Izmirly PM1 and Tonello et al recently reported cutaneous manifestations
+of neonatal lupus and risk of subsequent CHB. The most serious complication of
+NLE is complete atrioventricular (AV) block.
+PATIENT CONCERNS: We experienced 2 cases of NLE that were diagnosed in the past
+year in our Neonatal Intensive Care Unit. These cases showed 2 different clinical
+spectrums (CHB, multisystemic effects). One case was a 32-week pregnant woman
+with combined liver damage and fever, and her fetus was premature due to
+bradycardia and pericardial effusion. The second case was a young pregnant woman 
+who had systemic lupus erythematosus for 2 years and had been taking
+methylprednisolone and hydroxychloroquine for a long time since her illness. When
+prenatal testing at 28 weeks of pregnancy showed that the fetus had CHB, the
+mother began taking dexamethasone.
+DIAGNOSIS: The first case was diagnosed as NLE with CHB after birth, while the
+second was diagnosed as NLE with CHB, ductus arteriosus, and atrial septal defect
+when she was born at 34 weeks.
+INTERVENTIONS: Both of 2 cases were treated with steroids, intravenous
+immunoglobulin, and a diuretic. But the second case was treated with isoprenaline
+in addition to the above.
+OUTCOMES: Both of the infants was followed up and found to be clinically normal. 
+During the clinic follow-up of the first case, the 8-month-old infant was still
+asymptomatic with normal growth and development. Her heart rate fluctuated from
+40 to 90 beats/minute.
+LESSONS: Autoimmune CHB is a severe, potentially life-threatening disorder
+associated with passive transfer of maternal anti-Sjogren's syndrome A/Ro and
+anti-Sjogren's syndrome B/La autoantibodies. Mothers who are positive for these
+autoantibodies are recommended to have serial echocardiography and obstetric
+ultrasonography from the early second trimester. Newborns should be delivered at 
+an early stage of gestation if there is evidence of pericardial effusion,
+ascites, increasing ventricular ectopy, reduced ventricular shortening fraction, 
+or AV valve regurgitation. Aggressive medical management after birth should be
+coupled with pacemaker implantation in infants who do not respond to medical
+therapies alone.
+
+DOI: 10.1097/MD.0000000000013185 
+PMCID: PMC6250523
+PMID: 30407356  [Indexed for MEDLINE]
+
+
+2. Cardiol Young. 2018 Jan;28(1):171-174. doi: 10.1017/S1047951117001937. Epub 2017 
+Nov 7.
+
+An unusual course of anti-Ro antibody-mediated fetal complete heart block.
+
+Renaud C(1), Jaeggi E(1), Thakur V(1).
+
+Author information: 
+(1)From the Labatt Family Heart Center,Department of Pediatrics,The Hospital for 
+Sick Children,Toronto,Ontario,Canada.
+
+Fetal hydrops is a serious complication of immune-mediated congenital complete
+atrioventricular block. We present the case of a fetus with severe hydrops and
+profound bradycardia and an unusual favourable outcome. This case enhances the
+importance of considering the contribution of ventricular ectopic beats to the
+cardiac output when counselling and predicting outcome of complete heart block.
+
+DOI: 10.1017/S1047951117001937 
+PMID: 29110745  [Indexed for MEDLINE]
+
+
+3. Pediatr Rev. 2017 May;38(5):236. doi: 10.1542/pir.2015-0109.
+
+Case 4: Fever and Bradycardia in an 8-month-old Girl.
+
+Hau D(1).
+
+Author information: 
+(1)Department of Pediatrics, Weill Cornell Medical College, New York, NY.
+
+DOI: 10.1542/pir.2015-0109 
+PMID: 28461617  [Indexed for MEDLINE]
+
+
+4. Balkan Med J. 2017 Jan;34(1):71-73. doi: 10.4274/balkanmedj.2015.0535. Epub 2017 
+Jan 5.
+
+Spontaneous Remission of Congenital Complete Atrioventricular Block in Anti-Ro/La
+Antibody-Negative Monozygotic Twins: Case Report.
+
+Kasar T(1), Saygı M(1), Özyılmaz İ(1), Ergül Y(1).
+
+Author information: 
+(1)Department of Pediatric Cardiology, İstanbul Mehmet Akif Ersoy Thoracic and
+Cardiovascular Surgery Center and Research Hospital, İstanbul, Turkey.
+
+BACKGROUND: Congenital complete atrioventricular block without any structural
+heart disease and anti-Ro/La negativity is very rare. Discordant complete
+atrioventricular block, which is more frequently defined in the literature as an 
+autoimmune mechanism, is much more rare in monozygotic twins.
+CASE REPORT: The 26-year-old healthy mother had given birth in her first
+spontaneous, uneventful pregnancy to monozygotic twins at week 35. While the
+first twin's physical examination proved her to be normal with a pulse rate
+consistent with her age, the second twin had a pulse rate of approximately 40
+beats/minute.The patient was confirmed to have congenital complete
+atrioventricular block.
+CONCLUSION: Despite this case appears to be an isolated one, a discordant
+complete atrioventricular block regression without any autoimmune evidence should
+be included in the differential diagnosis of bradycardia in infants.
+
+DOI: 10.4274/balkanmedj.2015.0535 
+PMCID: PMC5322508
+PMID: 28251027  [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: No conflict of interest was
+declared by the authors.
+
+
+5. Rev Med Inst Mex Seguro Soc. 2017 Jan-Feb;55(1):128-132.
+
+[Down syndrome and heart block secondary to neonatal lupus].
+
+[Article in Spanish; Abstract available in Spanish from the publisher]
+
+Illana-Bravo CL(1), Méndez-Martínez S, Juan-Martínez ME.
+
+Author information: 
+(1)Departamento de Cardiología Pediátrica, Hospital General Regional 36,
+Instituto Mexicano del Seguro Social, Puebla, Puebla, México.
+carla_illana@hotmail.com.
+
+In Down syndrome, so far, has not been reported it's association with congenital 
+heart block, this entity is rare and occurred in only 1% of mothers who have
+systemic lupus erythematosus, the presence of anti-Ro antibodies cross the
+placenta presenting neonatal lupus with skin lesions and congenital heart block, 
+bradycardia, which is why we describe the following case. This is a new male end 
+product of asymptomatic young mother, but serological birth with stigmata of Down
+syndrome, birth presents congenital bradycardia rare manifestation abnormalities,
+but common in children of mothers with lupus are initiated study protocol,
+realizing you including laboratory tests and immunological studies cabinet as
+electrocardiogram and echocardiogram, which gave tone to take the mother
+immunological studies, being positive antiRo. We concluded that the risk of heart
+block in a patient with Down syndrome is the same as for the general population.
+
+Publisher: En el síndrome de Down, hasta ahora, no se ha reportado su asociación 
+a bloqueo cardiaco congénito, entidad poco frecuente, presentándose únicamente en
+el 1% de las madres que presentan lupus eritematoso sistémico. La presencia de
+anticuerpos anti-Ro atraviesan la barrera placentaria presentando lupus neonatal 
+con lesiones dérmicas y bradicardia por bloqueo cardiaco congénito, motivo por el
+cual describimos el siguiente caso. Se trata de un recién masculino de término,
+producto de madre joven asintomática, pero con anormalidades serológicas, al
+nacimiento con estigmas de síndrome de Down y bradicardia congénita,
+manifestación poco frecuente pero común en hijos de madres con lupus, se inició
+protocolo de estudio, realizándole exámenes de laboratorio e incluyendo estudios 
+inmunológicos y de gabinete como electrocardiograma y ecocardiograma, lo que dio 
+pauta a tomar estudios inmunológicos a la madre, siendo positivos antiRo.
+Concluimos que el riesgo de presentar bloqueo cardiaco en un paciente con
+síndrome de Down es el mismo que para la población general.
+
+PMID: 28092260  [Indexed for MEDLINE]
+
+
+6. Cardiovasc Diagn Ther. 2016 Oct;6(Suppl 1):S78-S82.
+
+Complete congenital heart block in a neonate with a complex congenital heart
+defect in Africa.
+
+Nkoke C(1), Wawo EY, Mfeukeu LK, Makamte L, Edie SD(1), Balana FE(1).
+
+Author information: 
+(1)Faculty of Medicine and Biomedical Sciences, University of Yaoundé 1, Yaoundé,
+Cameroon.
+
+Congenital heart block (CHB) is rare disorder that has a higher mortality when
+associated with structural congenital heart defects. Very few cases have been
+reported in Sub-Saharan Africa (SSA). We present a case of complete CHB
+associated with a complex congenital heart defect in a neonate in Cameroon. A
+1-month-old neonate in Cameroon was referred for the evaluation of bradycardia.
+The obstetrical ultrasound done during pregnancy revealed fetal bradycardia
+without further evaluation. Clinical examination showed well a developed neonate 
+with bradycardia at 62 beats/minute, and mild cyanosis with oxygen saturation at 
+93% at room air. There were no signs of heart failure. Twelve lead
+electrocardiogram (ECG) demonstrated a complete atrioventricular conduction block
+with a junctional escape rhythm at 59/minute, left axis deviation and
+bi-ventricular hypertrophy. Two-dimensional echocardiography revealed a complex
+congenital heart disease with the following abnormalities: dextrocardia, complete
+atrioventricular canal with a single atrium and mild atrioventricular valve
+regurgitation and malposition of the great vessels with a posterior aorta and an 
+anterior pulmonary artery. This case report highlights the challenges in the
+diagnosis and management of complex CHBs in low resource settings. A properly
+performed pregnancy follow-up with serial echocardiograms could aid in antenatal 
+diagnosis and plan perinatal management when appropriate in order to optimize
+outcome. This emphasizes the clinical value of high quality antenatal care and
+proper screening.
+
+DOI: 10.21037/cdt.2016.09.04 
+PMCID: PMC5119992
+PMID: 27904846 
+
+Conflict of interest statement: The authors have no conflicts of interest to
+declare.
+
+
+7. J Med Case Rep. 2016 Oct 19;10(1):288.
+
+Isolated congenital complete heart block in a five-year-old seronegative girl
+born to a woman seropositive for human immunodeficiency virus: a case report.
+
+Pallangyo P(1), Mawenya I(2), Nicholaus P(2), Mayala H(2), Kalombola A(3), Sharau
+G(4), Majani N(4), Janabi M(2).
+
+Author information: 
+(1)Department of Cardiovascular Medicine, The Jakaya Kikwete Cardiac Institute,
+P.O Box 65141, Dar es Salaam, Tanzania. pedro.pallangyo@gmail.com.
+(2)Department of Cardiovascular Medicine, The Jakaya Kikwete Cardiac Institute,
+P.O Box 65141, Dar es Salaam, Tanzania.
+(3)Department of Pediatric and Child Health, Muhimbili National Hospital, P.O Box
+65000, Dar es Salaam, Tanzania.
+(4)Department of Pediatric Cardiology, The Jakaya Kikwete Cardiac Institute, P.O 
+Box 65141, Dar es Salaam, Tanzania.
+
+BACKGROUND: Congenital complete heart block is a life-threatening condition which
+is highly associated with autoimmune and connective tissue disorders. Presence of
+maternal autoantibodies for associated conditions increases the risk of
+delivering a child with congenital complete heart block, however, less than a
+half of all women with such antibodies are symptomatic even after delivery.
+Mortality rate is highest during the neonatal period (45 %) and about two-thirds 
+of all cases will require permanent pacing at some point in their lives.
+CASE PRESENTATION: We report a case of isolated complete heart block in a
+5-year-old HIV-free girl of African descent born to an HIV-infected woman with no
+prior history of autoimmune disorders. She was referred to us with chief
+complaints of recurrent syncopal attacks and effort intolerance since birth. A
+physical examination was unremarkable except for her being small for her age
+(body mass index 16.3 kg/m2) and bradycardia. Her vital signs were within
+acceptable range with the exception of her pulse rate, which ranged between 22
+and 34 beats/minute. An echocardiogram revealed a sinus bradycardia, otherwise a 
+structurally normal heart. An electrocardiogram showed atrioventricular
+dissociation in keeping with third-degree atrioventricular block. The child
+underwent a permanent epicardial pacemaker insertion and has been symptom-free
+following pacing.
+CONCLUSIONS: Despite its infrequency and life-threatening potential, patients
+with congenital complete heart block have an excellent survival rate with timely 
+diagnosis and intervention. An incidental detection of bradycardia in a fetus
+during routine obstetrical ultrasound examination should increase the index of
+suspicion for congenital complete heart block and warrant a screening for
+associated maternal autoantibodies.
+
+DOI: 10.1186/s13256-016-1082-5 
+PMCID: PMC5070073
+PMID: 27756424  [Indexed for MEDLINE]
+
+
+8. Acta Obstet Gynecol Scand. 2016 Jan;95(1):98-105. doi: 10.1111/aogs.12785. Epub
+2015 Oct 26.
+
+Outcome in 212 anti-Ro/SSA-positive pregnancies and population-based incidence of
+congenital heart block.
+
+Skog A(1), Lagnefeldt L(2), Conner P(3), Wahren-Herlenius M(1), Sonesson SE(2).
+
+Author information: 
+(1)Unit of Experimental Rheumatology, Department of Medicine, Karolinska
+Institute, Stockholm, Sweden.
+(2)Pediatric Cardiology Unit, Department of Women's and Children's Health,
+Karolinska Institute, Stockholm, Sweden.
+(3)Division of Obstetrics and Gynecology, Department of Women's and Children's
+Health, Karolinska Institute, Stockholm, Sweden.
+
+INTRODUCTION: We investigated the effects of maternal autoimmune disease and
+fetal congenital heart block (CHB) on pregnancy outcomes in anti-Ro/SSA-positive 
+women and assessed the population-based incidence of isolated CHB.
+MATERIAL AND METHODS: One hundred and ninety nine anti-Ro/SSA-positive
+pregnancies were prospectively followed at our center (2000-2013). Seven fetuses 
+developed atrioventricular block (AVB) II-III. In this period, another 13
+anti-Ro/SSA-positive pregnancies were referred for fetal bradycardia,
+subsequently diagnosed with AVB II-III. Cesarean section rates, gestational age, 
+body measurements at birth, and the incidence of CHB in these 212 pregnancies
+were analyzed in relation to fetal atrioventricular conduction and maternal
+diagnosis and compared with data from the Medical Birth Registry on 352,104
+pregnancies in the Stockholm County.
+RESULTS: The prevalence of maternal systemic lupus erythematosus (SLE) and
+primary Sjögren's syndrome and the outcomes at birth were similar in normal
+conduction and AVB I cases. Only 1/20 AVB II-III cases (0/7 in the surveillance
+group) had a mother diagnosed with SLE, compared with 73/192 in cases with normal
+conduction or AVB I. Excluding cases with AVB II-III, SLE mothers more frequently
+delivered by cesarean section (31% vs. 20%, p < 0.05) and had a higher incidence 
+of preterm birth (13% vs. 5.8%, p < 0.05) than the county population. Both SLE
+and primary Sjögren's syndrome mothers had a fourfold greater rate of
+growth-retarded babies (10.11% vs. 2.2%, p < 0.001). The incidence of
+autoantibody-related AVB II-III in Stockholm County was 1/23 300.
+CONCLUSION: This study of CHB provides new information on the incidence of CHB
+and outcome of pregnancy in anti-Ro/SSA-positive women, which has clinical
+relevance when counseling rheumatic patients considering pregnancy.
+
+© 2015 Nordic Federation of Societies of Obstetrics and Gynecology.
+
+DOI: 10.1111/aogs.12785 
+PMID: 26411741  [Indexed for MEDLINE]
+
+
+9. A A Case Rep. 2015 Aug 1;5(3):33-5. doi: 10.1213/XAA.0000000000000170.
+
+Unexpected Complete Heart Block and Anesthetic Implications.
+
+Torres AG(1).
+
+Author information: 
+(1)From the Anesthesia Department, Naval Hospital, Yokosuka, Japan.
+
+A healthy, active duty military 25-year-old female with a history of congenital
+complete heart block presented for a routine septorhinoplasty. During the
+preoperative interview, she did not disclose her heart condition. A preordered
+electrocardiogram was not available. During induction of anesthesia, she became
+extremely bradycardic, approaching asystole, requiring resuscitation. This case
+highlights the potential anesthetic risks in individuals with a history of
+congenital heart rhythm disease.
+
+DOI: 10.1213/XAA.0000000000000170 
+PMID: 26230304  [Indexed for MEDLINE]
+
+
+10. BMJ Case Rep. 2015 May 22;2015. pii: bcr2015209655. doi: 10.1136/bcr-2015-209655.
+
+Autoantibody-associated congenital heart block: a rare cause of persistent fetal 
+bradycardia.
+
+Nigam A(1), Ahmad A(1).
+
+Author information: 
+(1)Department of Obstetrics and Gynaecology, Hamdard Institute of Medical
+Sciences and Research, New Delhi, India.
+
+Persistent fetal bradycardia in early pregnancy is a rare finding and indicates
+towards congenital heart block. This is commonly associated with positive
+maternal anti-Ro/anti-La antibodies. A case of an asymptomatic primigravida with 
+persistent fetal bradycardia on routine antenatal ultrasound is reported with
+special emphasis on its management options.
+
+2015 BMJ Publishing Group Ltd.
+
+DOI: 10.1136/bcr-2015-209655 
+PMCID: PMC4442182
+PMID: 26002776  [Indexed for MEDLINE]
+
+
+11. Ultrasound Q. 2015 Mar;31(1):34-6. doi: 10.1097/RUQ.0000000000000112.
+
+Ultrasound findings in fetal congenital heart block associated with maternal
+anti-Ro/SSA and Anti-La/SSB antibodies.
+
+Lai J(1), Clark TJ, Tan JH, Delaney S, Jolley JA.
+
+Author information: 
+(1)*Division of Maternal Fetal Medicine, Department of Obstetrics and Gynecology,
+and †Division of Body Imaging, Department of Radiology, University of Washington,
+Medical Center, Seattle, WA; and ‡Department of Radiology, University of
+California, San Diego Medical Center, San Diego, CA.
+
+We present the sonographic features of a second-trimester fetus diagnosed with a 
+bradyarrhythmia at 19 weeks' gestation. The mother carried a diagnosis of Sjögren
+syndrome, including the presence of SSA and SSB antibodies. Ultrasound M-mode and
+fetal echocardiogram revealed the etiology of the bradycardia to be a complete
+fetal congenital heart block, likely due to transplacental passage of autoimmune 
+anti-Ro/SSA and anti-La/SSB antibodies. Consequential to the congenital heart
+block, the fetus developed hydrops fetalis at 21 weeks' gestational age. We
+discuss the 2 major etiologies of congenital heart block and the implications in 
+subsequent pregnancies.
+
+DOI: 10.1097/RUQ.0000000000000112 
+PMID: 25706362  [Indexed for MEDLINE]
+
+
+12. Conf Proc IEEE Eng Med Biol Soc. 2014;2014:4459-63. doi:
+10.1109/EMBC.2014.6944614.
+
+A percutaneously implantable fetal pacemaker.
+
+Zhou L, Vest AN, Chmait RH, Bar-Cohen Y, Pruetz J, Silka M, Zheng K, Peck R, Loeb
+GE.
+
+A miniaturized, self-contained pacemaker that could be implanted with a minimally
+invasive technique would dramatically improve the survival rate for fetuses that 
+develop hydrops fetalis as a result of congenital heart block. We are currently
+validating a device that we developed to address this bradyarrhythmia.
+Preclinical studies in a fetal sheep model are underway to demonstrate that the
+device can be implanted via a minimally invasive approach, can mechanically
+withstand the harsh bodily environment, can induce effective contractions of the 
+heart muscle with an adequate safety factor, and can successfully operate for the
+required device lifetime of three months using the previously-developed closed
+loop transcutaneous recharging system.
+
+DOI: 10.1109/EMBC.2014.6944614 
+PMCID: PMC4346192
+PMID: 25570982  [Indexed for MEDLINE]
+
+
+13. Europace. 2014 May;16(5):758-65. doi: 10.1093/europace/eut377.
+
+Towards computational modelling of the human foetal electrocardiogram: normal
+sinus rhythm and congenital heart block.
+
+Pervolaraki E(1), Hodgson S, Holden AV, Benson AP.
+
+Author information: 
+(1)School of Biomedical Sciences, University of Leeds, Leeds LS2 9JT, UK.
+
+AIMS: We aim to engineer a computational model of propagation during normal sinus
+rhythm in the foetal human heart, by modifying models for adult cardiac tissue to
+match foetal electrocardiogram (fECG) characteristics. The model will be
+partially validated by fECG data, and applied to explore possible mechanisms of
+arrhythmogenesis in the foetal heart.
+METHODS AND RESULTS: Foetal electrocardiograms have been recorded during
+pregnancy, with P- and T-waves, and the QRS complex, identified by averaging and 
+signal processing. Intervals of the fECG are extracted and used to modify
+currently available human adult cardiomyocyte models. RR intervals inform models 
+of the pacemaking cells by constraining their rate, the QT interval and its rate 
+dependence constrain models of ventricular cells, and the width of the P-wave,
+the QR and PR intervals constrain propagation times, conduction velocities, and
+intercellular coupling. These cell models are coupled into a one-dimensional (1D)
+model of propagation during normal sinus rhythm in the human foetal heart. We
+constructed a modular, heterogeneous 1D model for propagation in the foetal
+heart, and predicted the effects of reduction in L-type Ca(++) current. These
+include bradycardia and atrioventricular conduction blocks. These may account
+quantitatively for congenital heart block produced by positive IgG antibodies.
+CONCLUSION: The fECG can be interpreted mechanistically and quantitatively by
+using a simple computational model for propagation. After further validation, by 
+clinical recordings of the fECG and the electrophysiological experiments on
+foetal cardiac cells and tissues, the model may be used to predict the effects of
+maternally administered pharmaceuticals on the fECG.
+
+DOI: 10.1093/europace/eut377 
+PMID: 24798966  [Indexed for MEDLINE]
+
+
+14. Ann Pediatr Cardiol. 2013 Jul;6(2):182-4. doi: 10.4103/0974-2069.115278.
+
+Remission of congenital complete heart block without anti-Ro/La antibodies: A
+case report.
+
+Mitra S(1), Saha AK(1), Sardar SK(1), Singh AK(1).
+
+Author information: 
+(1)Department of Neonatology, Institute of Postgraduate Medical Education and
+Research, SSKM Hospital, Kolkata, West Bengal, India.
+
+Anti-Ro/La negative congenital heart block (CHB) is uncommon. We report one such 
+case of CHB, with no associated structural heart disease or maternal
+autoantibodies. The heart block reverted to sinus rhythm spontaneously at two
+weeks of age, and the patient remains in sinus rhythm at a one year followup.
+Whether patients with antibody negative complete heart block have a different
+clinical course is conjectural.
+
+DOI: 10.4103/0974-2069.115278 
+PMCID: PMC3957454
+PMID: 24688242 
+
+
+15. Ultrasound Obstet Gynecol. 2014 Aug;44(2):171-5. doi: 10.1002/uog.13344. Epub
+2014 Jun 27.
+
+Doppler echocardiographic isovolumetric time intervals in diagnosis of fetal
+blocked atrial bigeminy and 2:1 atrioventricular block.
+
+Sonesson SE(1), Eliasson H, Conner P, Wahren-Herlenius M.
+
+Author information: 
+(1)Department of Women's and Children's Health, Karolinska Institutet, Stockholm,
+Sweden.
+
+OBJECTIVE: To distinguish between blocked atrial bigeminy (BB) and incomplete
+atrioventricular block with 2:1 conduction (2:1 AVB) can be very difficult,
+especially in the mid-term fetus. Making a correct diagnosis has important
+clinical implications, as their prognosis and management differ markedly. Our
+objective was to investigate whether analysis of isovolumetric time intervals
+could improve Doppler echocardiography in differentiating these conditions.
+METHODS: Sixteen fetuses with sustained BB or isolated 2:1 AVB, diagnosed at our 
+tertiary center from 2002 to 2012, were reviewed retrospectively. Doppler
+recordings of left ventricular in- and outflow, including mitral and aortic valve
+movements, were used to measure isovolumetric contraction (ICT) and relaxation
+(IRT) time intervals. ICT reference values obtained from 104 normal pregnancies
+were used for comparison.
+RESULTS: Ten fetuses had BB and six 2:1 AVB. Five of the AVB cases were anti-Ro
+antibody positive and one had long QT syndrome (LQTS). ICT was systematically
+shorter in BB than in antibody-mediated 2:1 AVB. Nine of 10 cases with BB had an 
+ICT below -2 SD and the five with antibody-mediated 2:1 AVB had values at or
+above +2 SD. All 15 fetuses with either BB or antibody-mediated AVB had an IRT of
+< 70 ms, as opposed to a markedly prolonged IRT (105 ms) in the LQTS case.
+CONCLUSION: Measurement of ICT can improve the differential diagnosis between BB 
+and antibody-mediated 2:1 AVB. Fetuses with BB or antibody-mediated AVB are
+unlikely to have IRT measurements exceeding 70 ms and, when this is observed,
+LQTS should be considered a more likely diagnosis.
+
+Copyright © 2014 ISUOG. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/uog.13344 
+PMID: 24585694  [Indexed for MEDLINE]
+
+
+16. BMC Pregnancy Childbirth. 2013 Nov 29;13:220. doi: 10.1186/1471-2393-13-220.
+
+Antenatal and postnatal combined therapy for autoantibody-related congenital
+atrioventricular block.
+
+Di Mauro A(1), Caroli Casavola V, Favia Guarnieri G, Calderoni G, Cicinelli E,
+Laforgia N.
+
+Author information: 
+(1)Department of Biomedical Science and Human Oncology, Neonatology and Neonatal 
+Intensive Care Unit, University of Bari, "Aldo Moro", P,zza Giulio Cesare, 11,
+70125 Bari, Italy. dimauroantonio@msn.com.
+
+BACKGROUND: Autoantibody-related congenital heart block (CHB) is an autoimmune
+condition in which trans placental passage of maternal autoantibodies cause
+damage to the developing heart conduction system of the foetus.
+CASE PRESENTATION: We report a case of an Italian 31-year-old woman, in a good
+clinical status, referred to our Centre at 26 weeks of her first pregnancy,
+because of foetal bradycardia, found during routine foetal ultrasonography.
+Foetal echocardiography revealed a 3rd degree CHB, without any anatomical
+defects. Despite the mother was asymptomatic for autoimmune disease, anti-Ro/La
+were searched for, because of the hypothesis of autoantibody-related CHB. High
+title of maternal anti-Ro/SSA antibodies was found and diagnosis of an
+autoantibody-related CHB was made. A combination treatment protocol of the mother
+was started with oral betamethasone, plasmapheresis and IVIG. An emergency
+C-section was performed at 32 + 3 weeks of gestation because of a non-reassuring 
+cardiotocography pattern. A male newborn (BW 1515 g, NGA, Apgar 8-10) was treated
+since birth with high-flow O2 for mild RDS. IVIG administration was started at
+one week, and then every two weeks, until complete disappearance of maternal
+antibodies from blood. Because of persistent low ventricular rate (<60/min),
+seven days following birth, pacemaker implantation was performed. The baby is now
+at 40th week with no signs of cardiac failure and free of any medications.
+CONCLUSION: Up to date, no guidelines have been published for the treatment of
+"in utero-CHB" and only anecdotal reports are available. It has been stated that 
+a combination therapy protocol is effective in reversing a 2nd degree CHB, but
+not for 3rd degree CHB. In cases of foetal bradycardia, weekly foetal
+echocardiographic monitoring needs to be performed and in cases of 2nd degree CHB
+and 3rd degree CHB maternal therapy could be suggested, as in our case, to avoid 
+foetal heart failure. In cases of 3rd degree CHB often pacemaker implantation is 
+needed.
+
+DOI: 10.1186/1471-2393-13-220 
+PMCID: PMC4219454
+PMID: 24286473  [Indexed for MEDLINE]
+
+
+17. J Obstet Gynaecol Can. 2013 Nov;35(11):1023-1027. doi:
+10.1016/S1701-2163(15)30791-X.
+
+Fetal pharmacotherapy 2: fetal arrhythmia.
+
+Namouz-Haddad S(1), Koren G(1).
+
+Author information: 
+(1)The Motherisk Program, Department of Pediatrics, The Hospital for Sick
+Children, University of Toronto, Toronto ON.
+
+DOI: 10.1016/S1701-2163(15)30791-X 
+PMID: 24246403  [Indexed for MEDLINE]
+
+
+18. BMJ Case Rep. 2013 Jul 8;2013. pii: bcr2013009249. doi: 10.1136/bcr-2013-009249.
+
+Neonatal lupus with atypical cardiac and cutaneous manifestation.
+
+Morais S(1), Santos IC, Pereira DF, Mimoso G.
+
+Author information: 
+(1)Department of Neonatal Intensive Care Unit, Maternidade Bissaya Barreto,
+Coimbra, Portugal. moraisofia@gmail.com
+
+Neonatal lupus erythematosus is a rare, passively acquired autoimmune disease,
+caused by maternal autoantibodies. The most common manifestations are skin rash
+and congenital heart block. Cutaneous manifestations may be present at birth, but
+often develop within a few weeks after delivery. Congenital heart block may
+present as bradycardia in utero or during physical examination at birth.
+Approximately 40-60% of mothers are asymptomatic when the infants are diagnosed. 
+We present a case of a child, born with erythematosus lesions in the face, scalp,
+trunk, limbs and nodules/papules on the palmar and plantar surfaces. He also had 
+hepatosplenomegaly and thrombocytopenia. Echocardiography showed hyperechoic
+lesions on the anterior papilar muscle of the left ventricle and on the lateral
+cusp of the tricuspid valve. The mother had unexplained fever and vasculitic
+lesions in her hands and feet. Antinuclear antibodies, anti-SSa/Ro and
+anti-SSb/La were positive in the mother and child, making the diagnosis of
+neonatal lupus.
+
+DOI: 10.1136/bcr-2013-009249 
+PMCID: PMC3736361
+PMID: 23839605  [Indexed for MEDLINE]
+
+
+19. Cardiol Res. 2013 Jun;4(3):126-128. doi: 10.4021/cr278w. Epub 2013 Jul 11.
+
+Pregnancy With SLE and Fetal Congenital Heart Block: A Case Report.
+
+Puri S(1), Pooni P(2), Mohan B(3), Bindal V(1), Verma S(4), Verma S(4), Gupta
+RK(5).
+
+Author information: 
+(1)Department of Obstetrics and Gynaecology, Dayanand Medical College and
+Hospital, Ludhiana, India.
+(2)Department of Pediatrics, Dayanand Medical College and Hospital, Ludhiana,
+India.
+(3)Department of Cardiology, Hero DMC Heart Centre - Dayanand Medical College and
+Hospital, Ludhiana, India.
+(4)Dayanand Medical College and Hospital, Ludhiana, India.
+(5)Department of Cardiovascular and Thoracic Surgery, Hero DMC Heart Centre -
+Dayanand Medical College and Hospital, Ludhiana, India.
+
+Autoimmune AV block is usually seen in association with autoimmune antibodies in 
+mother that cross the placenta and damage the AV node of fetus. A 24-year-old
+primigravida, diagnosed to have SLE, at 25 weeks period of gestation found to
+have fetal bradycardia. Her ANA was moderately positive, SS-A (Ro) antibodies and
+SS-B (La) antibodies were positive. Fetal ECHO showed no structural defect but
+heart rate was 55 - 60 beats per minute. She was put on dexamethasone (4 mg/day).
+She was lost on follow up and presented at term in emergency with labor pains and
+fetal bradycardia, underwent a lower segment caesarean section. Baby underwent a 
+temporary cardiac pacing within 10 hours of birth followed by permanent pacing on
+day 3 of birth. Baby is doing well on follow up. Neonates with isolated
+congenital heart block who are monitored antenatally and delivered in a planned
+fashion at an institution capable of early pacing can have favorable outcomes.
+
+DOI: 10.4021/cr278w 
+PMCID: PMC5358251
+PMID: 28352433 
+
+
+20. Heart Rhythm. 2013 May;10(5):760-6. doi: 10.1016/j.hrthm.2012.12.030. Epub 2012
+Dec 28.
+
+Pathophysiology, clinical course, and management of congenital complete
+atrioventricular block.
+
+Bordachar P(1), Zachary W, Ploux S, Labrousse L, Haissaguerre M, Thambo JB.
+
+Author information: 
+(1)University Bordeaux 2, Bordeaux, France. bordacharp@hotmail.com
+
+The incidence of congenital atrioventricular (AV) block is between 1 in 15,000
+and 1 in 20,000 births. It may occur in isolation or as a consequence of
+anomalous development of the conduction tissue in the context of a cardiac
+malformation. In this review, we use the term congenital AV bock to describe
+complete heart block when it is diagnosed in utero or at birth. The
+pathophysiological process is believed to be due to immune-mediated injury of the
+conduction system, which occurs as a result of transplacental passage of maternal
+anti-SSA/Ro-SSB/La antibodies. Many mothers are asymptomatic carriers, and less
+than one-third have a preexisting diagnosis of a rheumatological disorder. The AV
+block that develops months or years after birth probably occurs as a result of a 
+different disease process that is poorly understood. The diagnosis of congenital 
+AV block is usually confirmed by fetal echocardiography before birth and by
+electrocardiography after birth. The implantation of a pacemaker is recommended
+for symptomatic patients and for asymptomatic patients presenting with profound
+bradycardia, left ventricular dysfunction, a wide QRS interval, or a prolonged QT
+interval. It is now recognized that a subset of paced patients develop dilated
+cardiomyopathy and heart failure, and therefore regular follow-up is important.
+They are also at high risk of developing complications related to the presence of
+intracardiac material as a result of prolonged exposure to pacing materials.
+Future areas of research to minimize these risks include assessing the impact of 
+alternative stimulation sites and the development of new cardiac stimulation
+techniques.
+
+Copyright © 2013. Published by Elsevier Inc.
+
+DOI: 10.1016/j.hrthm.2012.12.030 
+PMID: 23276818  [Indexed for MEDLINE]
+
+
+21. J Rheumatol. 2011 Dec;38(12):2682-5. doi: 10.3899/jrheum.110720. Epub 2011 Nov
+15.
+
+Persistent fetal sinus bradycardia associated with maternal anti-SSA/Ro and
+anti-SSB/La antibodies.
+
+Chockalingam P(1), Jaeggi ET, Rammeloo LA, Haak MC, Adama van Scheltema PN, Breur
+JM, Bartelings MM, Clur SA, Blom NA.
+
+Author information: 
+(1)Department of Pediatric Cardiology, Academic Medical Centre, Amsterdam, The
+Netherlands.
+
+OBJECTIVE: To study the clinical course and outcome of fetal sinus bradycardia
+(SB) due to maternal antibody-induced sinus node dysfunction.
+METHODS: We reviewed the maternal, prenatal, and postnatal findings of fetuses
+with SB associated with elevated maternal anti-SSA/Ro and anti-SSB/La antibodies.
+RESULTS: Of the 6 cases diagnosed prenatally, 3 had isolated SB persisting after 
+birth and had a good prognosis. Three fetuses with SB and severe myocardial
+involvement (congenital complete heart block and/or endocardial fibroelastosis)
+succumbed in utero in spite of treatment. Postmortem histopathology in 1 fetus
+showed inflammatory destruction of the sinus and atrioventricular nodes. SB was
+detected incidentally in a 7-year-old girl. She had intermittent heart block with
+progressive sinus arrest requiring permanent pacemaker.
+CONCLUSION: Fetal SB associated with maternal autoantibodies may persist in
+childhood, with a good prognosis in the absence of widespread cardiac
+involvement.
+
+DOI: 10.3899/jrheum.110720 
+PMID: 22089457  [Indexed for MEDLINE]
+
+
+22. Ann Rheum Dis. 2012 Mar;71(3):448-54. doi: 10.1136/annrheumdis-2011-200414. Epub 
+2011 Nov 14.
+
+Anti-Ro52 monoclonal antibodies specific for amino acid 200-239, but not other
+Ro52 epitopes, induce congenital heart block in a rat model.
+
+Ambrosi A(1), Dzikaite V, Park J, Strandberg L, Kuchroo VK, Herlenius E,
+Wahren-Herlenius M.
+
+Author information: 
+(1)Department of Medicine, Karolinska Institutet, Stockholm, Sweden.
+
+BACKGROUND: Congenital heart block (CHB) may develop in fetuses of women with
+anti-Ro/La autoantibodies following placental transfer of maternal autoantibodies
+and disruption of the fetal atrioventricular (AV) conduction system. Animal
+models of CHB currently rely on immunisation or transfer of anti-Ro/La antibodies
+purified from mothers of children with CHB, which does not allow precise
+identification of the disease-inducing antibody specificity.
+OBJECTIVE: To determine the ability of different anti-Ro52 monoclonal antibodies 
+to induce cardiac electrophysiological abnormalities in vivo and affect the
+calcium homoeostasis of cardiomyocytes in vitro.
+METHODS: Monoclonal antibodies recognising different domains of Ro52 were
+generated and injected into pregnant rats, and ECG was recorded on newborn pups. 
+Cultures of rat neonatal cardiomyocytes were established to assess the effect of 
+the different anti-Ro52 monoclonal antibodies on calcium homoeostasis.
+RESULTS: First-degree AV block and bradycardia developed after maternal transfer 
+of antibodies specific for amino acids 200-239 of Ro52 (p200), while pups exposed
+to antibodies targeting N- or C-terminal epitopes of Ro52 did not show any
+electrocardiogram abnormalities. Addition of an anti-p200 antibody to cultured
+cardiomyocytes induced calcium dyshomoeostasis in a time- and dose-dependent
+manner, while addition of other Ro52 antibodies had no effect.
+CONCLUSION: These data for the first time show unambiguously that antibodies
+specific for amino acids 200-239 of Ro52 can induce cardiac conduction defects in
+the absence of other autoantibodies, and may therefore be the main initiators of 
+cardiac pathology in the pool of anti-Ro52 antibodies in mothers of children with
+CHB.
+
+DOI: 10.1136/annrheumdis-2011-200414 
+PMID: 22084395  [Indexed for MEDLINE]
+
+
+23. Pediatr Crit Care Med. 2012 Jan;13(1):47-52. doi: 10.1097/PCC.0b013e3182196cb1.
+
+Extracorporeal membrane oxygenation support for intractable primary arrhythmias
+and complete congenital heart block in newborns and infants: short-term and
+medium-term outcomes.
+
+Dyamenahalli U(1), Tuzcu V, Fontenot E, Papagiannis J, Jaquiss RD, Bhutta A,
+Morrow WR, Erickson CC, Imamura M, Prodhan P.
+
+Author information: 
+(1)Department of Pediatrics, Section of Cardiology, Arkansas Children's Hospital,
+University of Arkansas for Medical Sciences, Little Rock, AR, USA.
+dyamenahalliumesh@uams.edu
+
+Comment in
+    Pediatr Crit Care Med. 2012 Jan;13(1):100.
+
+OBJECTIVES: To describe the experience with extracorporeal membrane oxygenation
+support for intractable primary arrhythmias in newborns and infants.
+DESIGN: Retrospective study.
+SETTING: A tertiary care pediatric hospital.
+PATIENTS: Patients younger than 1 yr supported with extracorporeal membrane
+oxygenation for primary cardiac arrhythmias were identified from the
+institutional extracorporeal membrane oxygenation registry.
+INTERVENTIONS: Extracorporeal membrane oxygenation support.
+MEASUREMENTS AND MAIN RESULTS: Clinical characteristics and outcomes were
+investigated for patients with primary cardiac arrhythmia supported with
+extracorporeal membrane oxygenation. Outcomes investigated were time from
+initiation of extracorporeal membrane oxygenation support to arrhythmia control, 
+duration of extracorporeal membrane oxygenation support, and results of
+interventions performed while supported with extracorporeal membrane oxygenation.
+We summarized the independent categorical and continuous variables using
+frequencies, percentages, and medians and ranges, respectively. Extracorporeal
+membrane oxygenation support was used in nine patients for rescue therapy for
+primary tachyarrhythmia and bradycardia. The primary arrhythmias were: focal
+atrial tachycardia (n = 2); reentrant supraventricular tachycardia (n = 3);
+junctional ectopic tachycardia (n = 2); and congenital complete atrioventricular 
+block (n = 2) patients. Seven patients presented with severe hemodynamic
+compromise, with six patients requiring extracorporeal cardiopulmonary
+resuscitation. All patients required extracorporeal membrane oxygenation within
+24 hrs of initial presentation. Balloon atrial septostomy was performed in three 
+patients and ablation was performed in two patients. Sinus rhythm was achieved in
+all reentrant supraventricular tachycardia and rate control was established in
+both patients with focal atrial tachycardia and in one patient with junctional
+ectopic tachycardia while using extracorporeal membrane oxygenation support. All 
+patients survived to hospital discharge, and median follow-up for the cohort was 
+5 yrs. There was one late death; all survivors had good overall and neurologic
+outcomes.
+CONCLUSIONS: The requirement of extracorporeal membrane oxygenation support in
+newborns and infants with intractable arrhythmia is rare. Extracorporeal membrane
+oxygenation support does potentially carry morbidity; however, to prevent
+arrhythmia-related mortality, extracorporeal membrane oxygenation support and/or 
+extracorporeal cardiopulmonary resuscitation should be considered in the
+management of hemodynamically unstable primary arrhythmias as an emergent
+lifesaving procedure.
+
+DOI: 10.1097/PCC.0b013e3182196cb1 
+PMID: 21516054  [Indexed for MEDLINE]
+
+
+24. J Cardiovasc Electrophysiol. 2011 Aug;22(8):922-30. doi:
+10.1111/j.1540-8167.2011.02032.x. Epub 2011 Feb 25.
+
+Rescue and worsening of congenital heart block-associated electrocardiographic
+abnormalities in two transgenic mice.
+
+Karnabi E(1), Qu Y, Mancarella S, Boutjdir M.
+
+Author information: 
+(1)VA New York Harbor Healthcare System, New York 11209, USA.
+
+Comment in
+    J Cardiovasc Electrophysiol. 2011 Aug;22(8):E88.
+
+INTRODUCTION: Congenital heart block (CHB) is a passively acquired autoimmune
+disease considered to be due to the transfer of maternal autoantibodies,
+anti-SSA/Ro -SSB/La, to the fetus resulting in atrioventricular (AV) block and
+sinus bradycardia. We previously established a murine model for CHB where pups
+born to immunized wild-type (WT) mothers exhibited electrocardiographic
+abnormalities similar to those seen in CHB and demonstrated inhibition of L-type 
+Ca channels (LTCCs) by maternal antibodies. Here, we hypothesize that
+overexpression of LTCC should rescue, whereas knockout of LTCC should worsen the 
+electrocardiographic abnormalities in mice.
+METHODS AND RESULTS: Transgenic (TG) mice were immunized with SSA/Ro and SSB/La
+antigens. Pups born to immunized WT mothers had significantly greater sinus
+bradycardia and AV block compared to pups from nonimmunized WT. TG pups
+overexpressing LTCC had significantly less sinus bradycardia and AV block
+compared to their non-TG littermates and to pups born to immunized WT mothers.
+All LTCC knockout pups born to immunized mothers had sinus bradycardia, advanced 
+degree of AV block, and decreased fetal parity. No sinus bradycardia or AV block 
+were manifested in pups from control nonimmunized WT mothers. IgG from mothers
+with CHB children, but not normal IgG, completely inhibited intracellular Ca
+transient ([Ca](i)T) amplitude.
+CONCLUSIONS: Cardiac-specific overexpression of LTCC significantly reduced the
+incidence of AV block and sinus bradycardia in pups exposed to anti-SSA/Ro
+-SSB/La autoantibodies, whereas exposure of LTCC knockout pups to these
+autoantibodies significantly worsened the electrocardiographic abnormalities.
+These findings support the hypothesis that maternal antibodies inhibit LTCC and
+[Ca](i)T thus contributing to the development of CHB. Altogether, the results are
+relevant to the development of novel therapies for CHB.
+
+© 2011 Wiley Periodicals, Inc.
+
+DOI: 10.1111/j.1540-8167.2011.02032.x 
+PMCID: PMC3135711
+PMID: 21352396  [Indexed for MEDLINE]
+
+
+25. Ginekol Pol. 2009 Sep;80(9):708-11.
+
+[Successful outcome of a pregnancy with an extremely low fetal heart rate (34
+bpm) due to isolated complete heart block--case report].
+
+[Article in Polish]
+
+Hamela-Olkowska A(1), Dangel J, Miszczak-Knecht M.
+
+Author information: 
+(1)Poradnia Perinatologii i Kardiologii Perinatalnej, II Katedra i Klinika
+Połoznictwa i Ginekologii, Warszawski Uniwersytet Medyczny.
+
+Isolated complete congenital heart block (CHB) in the majority of cases is
+associated with the presence of autoantibodies to SSA (Ro) and SSB (La) antigens 
+in the maternal serum. The prognosis is less favorable in fetuses with a
+ventricular rate < 55bpm. We have reported a case of a fetus with an isolated
+non-autoimmune CHB with an extremely low ventricular rate (34bpm) in which the
+outcome was favorable. In the neonate the non-compaction of the myocardium was
+diagnosed.
+
+
+PMID: 19886247  [Indexed for MEDLINE]
+
+
+26. J Rheumatol. 2009 Aug;36(8):1744-8. doi: 10.3899/jrheum.080737. Epub 2009 Jun 30.
+
+Congenital heart block not associated with anti-Ro/La antibodies: comparison with
+anti-Ro/La-positive cases.
+
+Brucato A(1), Grava C, Bortolati M, Ikeda K, Milanesi O, Cimaz R, Ramoni V,
+Vignati G, Martinelli S, Sadou Y, Borghi A, Tincani A, Chan EK, Ruffatti A.
+
+Author information: 
+(1)Medicina Interna, Ospedali Riuniti, Bergamo, Italy.
+albrucato@ospedaliriuniti.bergamo.it
+
+OBJECTIVE: To study anti-Ro/La-negative congenital heart block (CHB).
+METHODS: Forty-five fetuses with CHB were evaluated by analysis of anti-Ro/La
+antibodies using sensitive laboratory methods.
+RESULTS: There were 9 cases of anti-Ro/La-negative CHB; 3 died (33.3%). Only 3
+(33.3%) were complete in utero and 5 (55.5%) were unstable. No specific etiology 
+was diagnosed. Six infants (66.6%) were given pacemakers. There were 36 cases of 
+anti-Ro/La-positive CHB. All except 2 infants (94.4%) had complete
+atrioventricular block in utero. Ten died (27.8%), one (2.7%) developed severe
+dilated cardiomyopathy, and 26 (72.2%) were given pacemakers.
+CONCLUSION: Nine of the 45 consecutive CHB cases (20%) were anti-Ro/La-negative
+with no known cause. They were less stable and complete than the anti-Ro/La
+positive cases.
+
+DOI: 10.3899/jrheum.080737 
+PMCID: PMC2798588
+PMID: 19567621  [Indexed for MEDLINE]
+
+
+27. Minerva Ginecol. 2008 Apr;60(2):189-91.
+
+Extremely low ventricular rate in a fetus with an isolated non-autoimmune
+complete congenital heart block. Case report.
+
+Pascoli I(1), Cester M, Nanhorngue K, Paternoster DM.
+
+Author information: 
+(1)Department of Gynecological Sciences and Human Reproduction, University of
+Padua, Padua, Italy.
+
+Congenital complete heart block (CCHB) is an uncommon disorder with an incidence 
+of about 1/20,000 in liveborn infants. It can occur in the setting of
+structurally normal heart or with structural disease; it is associated with high 
+mortality and morbidity and requires a high index of suspicion for early
+diagnosis and therapy. Isolated CCHB in a fetus is usually associated with the
+presence of autoantibodies to SSA (Ro) and SSB (La) antigens in the maternal
+circulation. Such antibodies cross into the fetal circulation and cause
+inflammation of the conduction tissues; the causal mechanism is not known.
+Although the prognosis for the majority of fetuses is good, it is less favourable
+in fetuses with a ventricular rate <55 bpm in early pregnancy or with a decrease 
+in the ventricular rate by >5 bpm during pregnancy. It is not known if the same
+prognostic criteria apply for fetuses with isolated non-autoimmune CCHB. This
+article reports authors' experience in managing a pregnancy with an extremely low
+fetal heart rate (47 bpm) in a single fetus with an isolated non-autoimmune CCHB 
+in which the outcome was favorable.
+
+
+PMID: 18487969  [Indexed for MEDLINE]
+
+
+28. Pacing Clin Electrophysiol. 2008 Feb;31 Suppl 1:S17-20. doi:
+10.1111/j.1540-8159.2008.00948.x.
+
+Indications for pacing in patients with congenital heart disease.
+
+Villain E(1).
+
+Author information: 
+(1)Cardiologie Pédiatrique, Université Paris V René Descartes, Hôpital
+Necker-Enfants Malades, Paris, France. elisabeth.villain@nck.aphp.fr
+
+BACKGROUND: Advances in pacing technology have increased indications for
+antibradycardia pacing and new indications have appeared for treatment of atrial 
+tachycardia and cardiac failure in patients with congenital heart disease (CHD).
+METHODS AND RESULTS: Implantation of a pacemaker is mandatory for symptomatic
+children with complete atrio-ventricular block (CAVB). In asymptomatic neonates
+and infants, prophylactic pacing is indicated when the ventricular rhythm is <55 
+beats per minute (bpm) or 70 bpm in case of significant cardiac malformations.
+Beyond one year of age, PM implantation is recommended in children with an
+average heart rate <50 bpm or long pauses on 24-hour recordings. Post-operative
+block that persists 7 days after cardiac surgery is a class I indication for
+pacing. Postoperative heart block may also be transient, but patients with
+residual conduction abnormalities and a long HV interval have a high risk of late
+sudden death and should be paced. After cardiac surgery, atrial pacing may also
+be considered, in patients with severe sinus bradycardia and symptoms, or in
+those requiring antiarrhythmic drugs for tachy-bradycardia syndrome; in case of
+failure of antiarrhythmic drugs, antitachycardia atrial pacing now appears to be 
+safe and efficacious. Finally, cardiac resynchronization therapy may apply to
+children with congenital heart block and cardiomyopathy, as well as to the
+population with CHD. Methods and results are described in the section dedicated
+to resynchronization.
+CONCLUSION: Cardiac pacing indications have extended beyond prevention of sudden 
+death and pacemaker implantation is now indicated to improve quality of life of
+patients with CHD and as a bridge to cardiac transplantation.
+
+DOI: 10.1111/j.1540-8159.2008.00948.x 
+PMID: 18226027  [Indexed for MEDLINE]
+
+
+29. Acta Med Port. 2007 May-Jun;20(3):229-32. Epub 2007 Jul 2.
+
+[Neonatal lupus erythematosus].
+
+[Article in Portuguese]
+
+Coelho R(1), Ferreira M, Ferreira M, Garcia P, Nunes MA, Magalhães MP.
+
+Author information: 
+(1)Departamento de Pediatria, Hospital Fernando Fonseca, Amadora.
+
+Neonatal lupus erythematosus (NLE) is a rare immune disease. Clinical findings
+include congenital heart block (CHB), cutaneous manifestations, and hepatic and
+haematological abnormalities. The authors present a case of a baby with prenatal 
+diagnosis of bradycardia. On the first day of life, she was bradycardic and a CHB
+(Mobitz type II) with left branch complete block was diagnosed. She had no
+structural cardiac abnormalities on the scan. Spontaneous resolution of the CHB
+occurred and she was discharged on the seventh day of life. On the third month of
+life cutaneous lesions and alimental difficulties were noted. She was diagnosed a
+complete heart block and a definitive pacemaker was instituted with clinical
+improvement. Anti-Ro antibodies were positive in the mother and in the child,
+with the skin biopsy consistent with NLE. Heart block is usually permanent but it
+can spontaneously revert temporarily to sinus rhythm. A long term follow-up is
+essential.
+
+
+PMID: 17868532  [Indexed for MEDLINE]
+
+
+30. Pediatr Cardiol. 2007 May-Jun;28(3):221-3. Epub 2007 Mar 20.
+
+Transient heart block in a neonate associated with previously undiagnosed
+maternal anti-Ro/SSA and anti-La/SSB antibodies.
+
+Escamilla SA(1), Pettersen MD.
+
+Author information: 
+(1)Pediatric Cardiology at Children's Hospital of Michigan, Detroit, MI 48201,
+USA. sescamil@dmc.org
+
+This report presents the case of an infant who was born with transient complete
+heart block. The cardiac rhythm converted to normal sinus rhythm within 12 hours 
+of life. Following the diagnosis in this infant of congenital heart block, both
+the mother and the infant were tested for autoantibodies. Both were found to be
+strongly positive for anti-Ro/SSA antibodies. The infant was also weakly positive
+for the anti-La/SSB antibodies and her mother moderately positive for the same.
+Congenital heart block associated with these maternal antibodies is well
+documented in the literature; however, this is the only reported case that
+documents a transient nature of the complete heart block.
+
+DOI: 10.1007/s00246-006-0015-2 
+PMID: 17375353  [Indexed for MEDLINE]
+
+
+31. Int J Obstet Anesth. 2007 Apr;16(2):165-70. Epub 2007 Jan 30.
+
+Bradyarrhythmias in pregnancy: a case report and review of management.
+
+Adekanye O(1), Srinivas K, Collis RE.
+
+Author information: 
+(1)Department of Anaesthetics and Intensive Care Medicine, Wales College of
+Medicine, Cardiff University, University Hospital of Wales, Heath Park, Cardiff, 
+UK. adekanyeo@cf.ac.uk
+
+Comment in
+    Int J Obstet Anesth. 2011 Oct;20(4):361-3; author reply 363.
+
+We present a case of unpaced pre-existing congenital heart block in pregnancy,
+diagnosed for the first time in labour. Our patient was asymptomatic and was
+managed conservatively with temporary pacing equipment on standby. She had a
+post-partum cardiology follow-up and was paced in the puerperium. We discuss the 
+aetiopathogenesis and the variable presentation patterns of bradyarrhythmia in
+pregnancy and the multidisciplinary approach to their management. Our
+recommendations combine the Advanced Life Support algorithm for treatment of
+bradycardia and the successful management strategies of several documented case
+reports in the literature.
+
+DOI: 10.1016/j.ijoa.2006.10.003 
+PMID: 17270418  [Indexed for MEDLINE]
+
+
+32. J Heart Lung Transplant. 2006 Nov;25(11):1371-5. Epub 2006 Oct 5.
+
+Cellular rejection of the conduction system after orthotopic heart
+transplantation for congenital atrioventricular block.
+
+Chan JB(1), Levi DS, Lai CK, Alejos JC, Fishbein MC.
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, University of California at
+Los Angeles, Los Angeles, California 90095-1732, USA. jchan@mednet.ucla.edu
+<jchan@mednet.ucla.edu>
+
+We report a case of severe acute cellular rejection of the cardiac allograft
+conduction system in a 15-month-old girl who received orthotopic heart
+transplantation (OHT) for congestive heart failure from a congenital heart block.
+Post-operatively, the patient was treated for clinical evidence of rejection, but
+did not have electrocardiographic findings of heart block. Six weeks after
+transplantation, the patient developed sudden-onset bradycardia and died. Autopsy
+showed severe acute cellular rejection involving primarily the conduction system.
+Cellular rejection of the cardiac conduction system is a potentially lethal
+complication of OHT. Although diagnostic modalities to predict or detect ongoing 
+cellular rejection in the conduction system are limited, recognizing the early
+signs, such as post-operative heart block, may prevent devastating consequences.
+
+DOI: 10.1016/j.healun.2006.08.002 
+PMID: 17097504  [Indexed for MEDLINE]
+
+
+33. J Dermatol. 2006 Oct;33(10):714-8.
+
+Juvenile-onset hypergammaglobulinemic purpura and fetal congenital heart block.
+
+Maeda-Tanaka M(1), Haruta S, Sado T, Uchida Y, Takahashi Y, Asada H, Miyagawa S.
+
+Author information: 
+(1)Department of Dermatology, Perinatal Medical Center, Nara Medical University
+Hospital, Kashihara City, Nara 634-8522, Japan.
+
+Waldenström's hypergammaglobulinemic purpura (HGP) is a rare chronic disorder
+characterized by recurrent purpura on the legs, a polyclonal increase in serum
+gamma-globulin, an elevated erythrocyte sedimentation rate and a positive
+rheumatoid factor. A 30-year-old primigravid woman with 14 years of HGP was found
+to have fetal bradycardia at 25 weeks' gestation. Laboratory investigations
+demonstrated positive anti-Ro/SSA and anti-La/SSB antibodies in the maternal
+serum. Cesarean delivery was performed at 39 weeks, and a 2750-g female infant
+was born with complete atrioventricular block. Fortunately, the neonatal period
+has been uneventful without need for pace-making. Maternal HGP exacerbated just
+after delivery, but resolved within 1 week without treatment. Physicians should
+be aware of the possible presence of neonatal lupus-related anti-Ro/SSA and
+anti-La/SSB autoantibodies in patients with HGP. Screening for these
+autoantibodies is important and could be used as a marker to identify and manage 
+high-risk pregnancies.
+
+DOI: 10.1111/j.1346-8138.2006.00166.x 
+PMID: 17040503  [Indexed for MEDLINE]
+
+
+34. Pharmacol Ther. 2006 Sep;111(3):674-706.
+
+5-hydroxytryptamine receptors in the human cardiovascular system.
+
+Kaumann AJ(1), Levy FO.
+
+Author information: 
+(1)Department of Physiology, University of Cambridge, UK.
+
+The human cardiovascular system is exposed to plasma 5-hydroxytryptamine (5-HT,
+serotonin), usually released from platelets. 5-HT can produce harmful acute and
+chronic effects. The acute cardiac effects of 5-HT consist of tachycardia
+(preceded on occasion by a brief reflex bradycardia), increased atrial
+contractility and production of atrial arrhythmias. Acute inotropic, lusitropic
+and arrhythmic effects of 5-HT on human ventricle become conspicuous after
+inhibition of phosphodiesterase (PDE) activity. Human cardiostimulation is
+mediated through 5-HT4 receptors. Atrial and ventricular PDE3 activity exerts a
+protective role against potentially harmful cardiostimulation. Chronic exposure
+to high levels of 5-HT (from metastatic carcinoid tumours), the anorectic drug
+fenfluramine and its metabolites, as well as the ecstasy drug
+3,4-methylenedioxymethamphetamine (MDMA) and its metabolite
+3,4-methylenedioxyamphetamine (MDA) are associated with proliferative disease and
+thickening of cardiac valves, mediated through 5-HT2B receptors. 5-HT2B receptors
+have an obligatory physiological role in murine cardiac embryology but whether
+this happens in humans requires research. Congenital heart block (CHB) is, on
+occasion, associated with autoantibodies against 5-HT4 receptors. Acute vascular 
+constriction by 5-HT is usually shared by 5-HT1B and 5-HT2A receptors, except in 
+intracranial arteries which constrict only through 5-HT1B receptors. Both 5-HT1B 
+and 5-HT2A receptors can mediate coronary artery spasm but only 5-HT1B receptors 
+appear involved in coronary spasm of patients treated with triptans or with
+Prinzmetal angina. 5-HT2A receptors constrict the portal venous system including 
+oesophageal collaterals in cirrhosis. Chronic exposure to 5-HT can contribute to 
+pulmonary hypertension through activation of constrictor 5-HT1B receptors and
+proliferative 5-HT2B receptors, and possibly through direct intracellular
+effects.
+
+
+PMID: 16960982  [Indexed for MEDLINE]
+
+
+35. Int J Cardiol. 2006 Sep 20;112(2):153-8. Epub 2006 Jun 30.
+
+Congenital complete heart block and maternal connective tissue disease.
+
+Jayaprasad N(1), Johnson F, Venugopal K.
+
+Author information: 
+(1)Department of Cardiology, Medical College, Calicut, Kerala State, 673008,
+India. drjpn76@yahoo.co.in
+
+Congenital complete heart block can be isolated or can occur in association with 
+other structural heart diseases. Isolated congenital complete heart block (CCHB) 
+is due to transplacental transfer of autoantibodies from mothers with connective 
+tissue disease. Congenital heart block is usually complete, but incomplete
+blocks, sinus bradycardia and QTc prolongation are also reported. Anti SS A and
+Anti SS B antibodies transferred from mothers have inflammatory and
+arrhythmogenic effects in the fetal conduction system. Cardiac manifestations
+reported include dilated cardiomyopathy, endocardial fibroelastosis and mitral
+insufficiency. Low ventricular rate, QT prolongation and arrhythmias on
+monitoring are high risk features. CCHB has a mortality of 30%, and 60% of
+infants require pacemaker therapy. Fetal echocardiography is useful in early
+diagnosis. Prophylactic steroid therapy is controversial. Beta adrenergic
+agonists were tried in mothers with fetuses having congenital heart block to
+increase fetal heart rate. Early pacemaker therapy is indicated in patients with 
+symptomatic bradycardia and ventricular dysfunction. The indications for pacing
+in congenital heart block continue to evolve with advances in techniques and most
+of these children will ultimately require permanent pacemakers by adulthood.
+
+DOI: 10.1016/j.ijcard.2005.11.115 
+PMID: 16815568  [Indexed for MEDLINE]
+
+
+36. J Midwifery Womens Health. 2006 Jul-Aug;51(4):297-299. doi:
+10.1016/j.jmwh.2005.10.013.
+
+A surprising case of sustained antenatal fetal bradycardia.
+
+Salazar SS.
+
+Persistent fetal bradycardia noted in the antenatal period can occur secondary to
+maternal conditions, fetal cardiac structural defects, or from congenital heart
+block. Fetal bradycardia can be mistaken for maternal pulse and should be
+confirmed with ultrasound whenever possible. Prompt evaluation of the fetus with 
+bradycardia can lead to early interventions designed to prevent cardiac damage
+and/or hydrops.
+
+DOI: 10.1016/j.jmwh.2005.10.013 
+PMID: 16814226  [Indexed for MEDLINE]
+
+
+37. Autoimmun Rev. 2006 May;5(5):306-13. Epub 2005 Dec 9.
+
+Connective tissue diseases and cardiac rhythm disorders: an overview.
+
+Lazzerini PE(1), Capecchi PL, Guideri F, Acampa M, Galeazzi M, Laghi Pasini F.
+
+Author information: 
+(1)Department of Clinical Medicine and Immunological Sciences, Division of
+Clinical Immunology, University of Siena, Viale Bracci, 53100 Siena, Italy.
+pietroenea@yahoo.it
+
+Cardiovascular involvement is common in connective tissue diseases (CTD), with
+relevant implications in terms of morbidity and mortality. Rhythm disturbances,
+i.e. conduction defects and tachyarrhythmias, represent a frequent clinical
+manifestation of CTD-associated cardiovascular damage and a possible cause of
+sudden death. The underlying arrhythmogenic mechanisms are probably multiple and 
+intriguing, even though the myocardial fibrosis frequently observed at the
+pathological examination seems to play a pivotal role. Myocardial fibrosis is
+produced directly by inflammatory processes, or indirectly as a consequence of
+coronary artery occlusive disease, and it may affect the conduction system also
+representing the pathological substrate for reentry circles. An overview of
+CTD-associated cardiac rhythm disturbances is here provided. Among CTD-associated
+rhythm disorders, congenital heart block (CHB), which represents the main feature
+of neonatal lupus, a rare syndrome related to the transplacental passage of
+autoantibodies from anti-Ro/SSA-positive mother to their newborns, seems to
+acknowledge a peculiar mechanism of disease possibly dependent on a direct
+arrhythmogenicity of anti-Ro/SSA antibodies. Moreover, new anti-Ro/SSA-associated
+EKG abnormalities have been recently described in children (sinus bradycardia and
+corrected QT (QTc) interval prolongation) as well as in adults (QTc interval
+prolongation).
+
+DOI: 10.1016/j.autrev.2005.11.002 
+PMID: 16782554  [Indexed for MEDLINE]
+
+
+38. Arch Pediatr. 2006 May;13(5):473-8. Epub 2006 Jan 25.
+
+[Neonatal lupus syndromes].
+
+[Article in French]
+
+Cimaz R(1), Duquesne A.
+
+Author information: 
+(1)Département de Pédiatrie, Hôpital Edouard-Herrio, 69437 Lyon cedex 03, France.
+roland.cimaz@chu-lyon.fr
+
+Children born from mothers positive for autoantibodies against SSA/Ro and/or
+anti-SSB/La ribonucleoproteins may develop heart conduction tissue damage
+resulting in atrioventricular block and/or transient skin rash, liver enzyme
+abnormalities and anaemia/thrombocytopenia. Additional transient
+electrocardiographic abnormalities (sinus bradycardia, QT interval prolongation) 
+have been reported. Such clinical and laboratory manifestations are included in
+the so-called neonatal lupus syndromes, independently whether the mother is
+suffering from a systemic autoimmune disease or is totally asymptomatic. The
+prevalence of the congenital heart block is around 2%, of neonatal rash around
+20%, while laboratory abnormalities in asymptomatic babies can be detected in up 
+to 40% of cases. The risk of recurrence of complete heart block is almost 10
+times higher in the following pregnancies. Most of the mothers are asymptomatic
+at delivery and are identified only by the birth of an affected child. Their
+long-term outcome is generally more reassuring than previously assumed. Serial
+echocardiograms and obstetric sonograms, performed at least every 2 weeks,
+starting from 16 weeks gestation, are recommended in anti-Ro/SSA positive
+pregnant women: the goal is to detect early fetal abnormalities, that might
+precede complete atrioventricular block and that might be a target for preventive
+therapy. Transplacental passage of maternal anti-SSA/Ro -SSB/La IgG is thought to
+be pivotal in inducing tissue damage. However, the discordant appearance of the
+syndrome in twins does suggest a role also for fetal or environmental factors.
+
+DOI: 10.1016/j.arcped.2005.12.012 
+PMID: 16442273  [Indexed for MEDLINE]
+
+
+39. Reumatismo. 2005 Jul-Sep;57(3):180-6.
+
+[Isolated congenital heart block in undifferentiated connective tissue disease
+and in primary Sjögren's syndrome: a clinical study of 81 pregnancies in 41
+patients].
+
+[Article in Italian]
+
+Grava C(1), Ruffatti A, Milanesi O, Favaro M, Tonello M, Calligaro A, Del Ross T,
+Todesco S.
+
+Author information: 
+(1)Cattedra e Unità Operativa di Reumatologia, Università degli Studi di Padova. 
+chiara.grava@unipd.it
+
+OBJECTIVE: To study the incidence and the features of congenital heart block
+(CHB) in patients with undifferentiated connective tissue disease (UCTD) and
+primary Sjögren's syndrome (pSS).
+METHODS: We studied 81 pregnancies of 41 women attending the Outpatients' Clinic 
+of the Rheumatology Unit of University Hospital of Padova from July 1989 to March
+2004. Twenty five of these (61%) were affected with UCTD and 16 (39%) with pSS.
+Serologic inclusion criteria was anti-Ro/La positivity, assessed by
+counterimmunoelectrophoresis and ELISA.
+RESULTS: CHB was found in 2 out of the 46 (4.3%) pregnancies followed by our
+Staff and in 2 out of the 35 (5.7%) included in the retrospective part of the
+study. In 3 cases CHB was a 3rd degree block, causing pregnancy termination in 2.
+The only 2nd degree block was identified in one patient at the 22nd week of
+gestation and treated with dexamethasone and plasma-exchange. All of the women
+were positive to 52 kd and 60 kd Ro autoantibodies. CHB mothers had higher titer 
+antibodies to 52 kd Ro protein than did the mothers with healthy infants (P =
+0.026). Electrocardiographic abnormalities at birth were found in 3 out of 29
+asymptomatic infants. One presented sinus bradycardia, the second abnormalities
+of ventricular repolarization, both regressed spontaneously, while the third
+ventricular extrasystoles which continue even now at 5 months.
+CONCLUSIONS: These results showed that in UCTD and pSS there is a higher
+incidence of CHB than that reported in Systemic Lupus Erythematosus.
+Electrocardiographic screening in all infants born to mothers with anti-Ro/La
+antibodies would seem an important measure to identify those with irreversible
+heart conduction abnormalities.
+
+
+PMID: 16258602  [Indexed for MEDLINE]
+
+
+40. Circulation. 2005 Jun 14;111(23):3034-41. Epub 2005 Jun 6.
+
+Novel molecular mechanism involving alpha1D (Cav1.3) L-type calcium channel in
+autoimmune-associated sinus bradycardia.
+
+Qu Y(1), Baroudi G, Yue Y, Boutjdir M.
+
+Author information: 
+(1)VA New York Harbor Healthcare System, New York, NY, USA.
+
+BACKGROUND: Congenital heart block (CHB) is an autoimmune disease that affects
+fetuses/infants born to mothers with anti-Ro/La antibodies (positive IgG).
+Although the hallmark of CHB is complete atrioventricular block, sinus
+bradycardia has been reported recently in animal models of CHB. Interestingly,
+knockout of the neuroendocrine alpha1D Ca channel in mice results in significant 
+sinus bradycardia and atrioventricular block, a phenotype reminiscent to that
+seen in CHB. Here, we tested the hypothesis that the alpha1D Ca channel is a
+novel target for positive IgG.
+METHODS AND RESULTS: Reverse transcription-polymerase chain reaction, confocal
+indirect immunostaining, and Western blot data established the expression of the 
+alpha1D Ca channel in the human fetal heart. The effect of positive IgG on
+alpha1D Ca current (I(Ca-L)) was characterized in heterologous expression systems
+(tsA201 cells and Xenopus oocytes) because of the unavailability of
+alpha1D-specific modulators. alpha1D I(Ca-L) activated at negative potentials
+(between -60 and -50 mV). Positive IgG inhibited alpha1D I(Ca-L) in both
+expression systems. This inhibition was rescued by a Ca channel activator, Bay
+K8644. No effect on alpha1D I(Ca-L) was observed with negative IgG and denatured 
+positive IgG. Western blot data showed that positive IgG binds directly to
+alpha1D Ca channel protein.
+CONCLUSIONS: The data are the first to demonstrate (1) expression of the alpha1D 
+Ca channel in human fetal heart, (2) inhibition of alpha1D I(Ca-L) by positive
+IgG, and (3) direct cross-reactivity of positive IgG with the alpha1D Ca channel 
+protein. Given that alpha1D I(Ca-L) activates at voltages within the pacemaker's 
+diastolic depolarization, inhibition of alpha1D I(Ca-L) in part may account for
+autoimmune-associated sinus bradycardia. In addition, Bay K8644 rescue of alpha1D
+I(Ca-L) inhibition opens new directions in the development of pharmacotherapeutic
+approaches in the management of CHB.
+
+DOI: 10.1161/CIRCULATIONAHA.104.517326 
+PMID: 15939813  [Indexed for MEDLINE]
+
+
+41. Arthritis Res Ther. 2005;7(2):69-73. Epub 2005 Jan 25.
+
+Anti-SSA/Ro antibodies and the heart: more than complete congenital heart block? 
+A review of electrocardiographic and myocardial abnormalities and of treatment
+options.
+
+Costedoat-Chalumeau N(1), Amoura Z, Villain E, Cohen L, Piette JC.
+
+Author information: 
+(1)Service de Médecine Interne, Centre Hospitalier Universitaire
+Pitié-Salpêtrière, Paris, France. nathalie.costedoat@psl.ap-hop-paris.fr
+
+Apart from complete and incomplete congenital heart block (CHB), new cardiac
+manifestations related to anti-SSA/Ro antibodies have been reported in children
+born to mothers bearing these antibodies. These manifestations include transient 
+fetal first-degree heart block, prolongation of corrected QT (QTc) interval,
+sinus bradycardia, late-onset cardiomyopathy, endocardial fibroelastosis and
+cardiac malformations. Anti-SSA/Ro antibodies are not considered pathogenic to
+the adult heart, but a prolongation of the QTc interval has recently been
+reported in adult patients and is still a matter of debate. Treatment of CHB is
+not well established and needs to be assessed carefully. The risks and benefits
+of prenatal fluorinated steroids are discussed.
+
+DOI: 10.1186/ar1690 
+PMCID: PMC1065339
+PMID: 15743492  [Indexed for MEDLINE]
+
+
+42. Pediatr Res. 2005 Apr;57(4):557-62. Epub 2005 Feb 4.
+
+Effect of maternal autoantibodies on fetal cardiac conduction: an experimental
+murine model.
+
+Suzuki H(1), Silverman ED, Wu X, Borges C, Zhao S, Isacovics B, Hamilton RM.
+
+Author information: 
+(1)Division of Cardiovascular Research, The Hospital for Sick Children Research
+Institute, Toronto, Ontario, Canada.
+
+The pathogenesis of congenital heart block (CHB) remains unclear. The occurrence 
+rate of neonatal CHB is low, even in murine models of lupus erythematosus. The
+assessment of heart block in murine maternal lupus models by measuring
+atrioventricular conduction in neonatal offspring is potentially confounded by
+fetal wastage. We therefore sought to develop a murine CHB model with a superior 
+immune response and to use embryonic Doppler echocardiography to observe
+conduction system damage in the fetus. Mature 8-wk-old female C3H/HeJ mice (n=43)
+were immunized with 60 kD Ro, 48 kD La, or recombinant calreticulin autoantigens.
+ELISA confirmed that significant serum autoantibodies developed in all three
+immunized groups when compared with controls. Starting at 13 d of gestation, a
+significantly lower fetal heart rate (HR) and a higher percentage of fetal
+bradycardia/atrioventricular block (AVB, nonadvanced second degree) were observed
+in all immunized groups, compared with controls. There was 9-18% nonadvanced
+second-degree AVB in immunized groups and 0% in controls at <18 d of gestation.
+Neonatal electrocardiograms demonstrated only 1 degrees AVB in immunized groups. 
+Maternal immunization with 60 kD Ro, 48 kD La, or recombinant calreticulin
+autoantigens resulted in AVB in a significant percentage of fetuses, however,
+lesser degrees of AVB were seen at birth. Significant fetal bradycardia and AVB
+may be missed by assessment only at birth in murine models of CHB due to fetal
+wastage.
+
+DOI: 10.1203/01.PDR.0000155947.82365.E4 
+PMID: 15695601  [Indexed for MEDLINE]
+
+
+43. Arthritis Rheum. 2004 Oct;50(10):3187-94.
+
+Outcome of pregnancies in patients with anti-SSA/Ro antibodies: a study of 165
+pregnancies, with special focus on electrocardiographic variations in the
+children and comparison with a control group.
+
+Costedoat-Chalumeau N(1), Amoura Z, Lupoglazoff JM, Huong DL, Denjoy I, Vauthier 
+D, Sebbouh D, Fain O, Georgin-Lavialle S, Ghillani P, Musset L, Wechsler B,
+Duhaut P, Piette JC.
+
+Author information: 
+(1)Centre Hospitalier Universitaire Pitié-Salpêtrière, Paris, France.
+nathalie.costedoat@psl.ap-hop-paris.fr
+
+OBJECTIVE: Aside from congenital heart block (CHB), sinus bradycardia and
+prolongation of the corrected QT (QTc) interval have been reported in infants
+born to mothers with anti-SSA antibodies. To assess the pathologic nature of
+these manifestations, this study focused on electrocardiographic (EKG) variations
+in these children, comparing them with findings in a control group.
+METHODS: We studied 165 consecutive pregnancies in 106 anti-SSA-positive women
+with connective tissue diseases (CTDs). EKGs obtained on 58 children of this
+group were compared with those obtained on 85 infants born to mothers with CTD
+who were negative for both anti-SSA and anti-SSB.
+RESULTS: No statistically significant difference was seen between the 2 study
+groups with regard to gestational age, prematurity, birth weight, age of the
+children at the time of EKG, age of the mothers, or treatments received by the
+mothers during their pregnancies. Seven of 137 children developed cutaneous
+neonatal lupus syndrome; 1 child developed CHB (CHB risk of 1 in 99 [1%] if only 
+the first prospectively observed pregnancy in women without a history of CHB is
+included in the analysis). For EKGs recorded during the first 2 months of life,
+the mean +/- SD PR interval was 96 +/- 16 msec in the anti-SSA-positive group and
+96 +/- 13 msec in the anti-SSA-negative group (P = 0.84), with mean QTc values of
+397 +/- 27 and 395 +/- 25 msec (P = 0.57) and mean heart rates of 141 +/- 23 and 
+137 +/- 21 beats per minute (P = 0.20), respectively. No difference in the PR
+interval, QTc interval, or heart rate was observed for EKGs obtained between 2
+and 4 months of life. When EKGs obtained at 0-2 months were compared with those
+obtained at 2-4 months, a physiologic prolongation of the QTc interval was
+observed in both study groups. No sudden infant death or symptomatic arrhythmia
+occurred during the first year of life.
+CONCLUSION: The EKG findings in children of anti-SSA-positive and
+anti-SSA-negative mothers were not significantly different. Our results suggest
+that the prolongation of the QTc interval and sinus bradycardia that have
+recently been reported in children of mothers with anti-SSA antibodies occur
+independently of the anti-SSA antibodies. The pathologic nature of these EKG
+variations was not confirmed by our controlled study.
+
+Copyright 2004 American College of Rheumatology
+
+DOI: 10.1002/art.20554 
+PMID: 15476223  [Indexed for MEDLINE]
+
+
+44. Pathol Biol (Paris). 2004 Apr;52(3):138-47.
+
+[Congenital heart block associated with maternal anti SSA/SSB antibodies :a
+report of four cases].
+
+[Article in French]
+
+Ayed K(1), Gorgi Y, Sfar I, Khrouf M.
+
+Author information: 
+(1)Laboratoire d'immunologie EPS, Charles-Nicolle, boulevard du 9-Avril, Tunis,
+Tunisie. khaled.ayed@rns.tn
+
+Congenital heart block (CHB) associated with maternal anti-SSA/SSB antibodies: a 
+report of four cases. CHB detected in utero is strongly associated with maternal 
+antibodies to SSA (Ro) and SSB (La). Their pathogenic role in the development of 
+CHB has been established in several studies. The mothers of affected infants
+frequently had autoimmune disease (systemic lupus erythematosus, Sjögren's
+syndrome) or were entirely asymptomatic. It is very difficult to identify
+pregnant asymptomatic mothers carrying anti-SSA/SSB antibodies. We report four
+cases of infants born to asymptomatic mothers with anti-SSA/SSB antibodies, three
+of them developed isolated congenital cardiac heart block and one with no
+evidence of CHB. All three CHB are detected during pregnancy between 16 and 24
+weeks of gestation. All maternal sera contained antibodies to SSA alone or the
+both SSA and SSB. Three of four subsequent pregnancies were complicated by heart 
+block. One child affected died in utero. While the two other newborns with CHB
+required pacemaker insertion during the first 3 months of life. Although the
+association of anti-SSA/SSB with CHB is widely accepted, the precise mechanism by
+which these antibodies cause cardiac conduction abnormalities remains to be
+defined. Antibodies to SSA/SSB have been proposed to be a serologic marker for
+neonatal lupus syndrome and CHB. Fetal and neonatal diseases are presumed to be
+due to the transplacental passage of these IgG autoantibodies from the mother
+into the fetal circulation. Since these antibodies may have a pathogenic role in 
+CHB, screening of infants with isolated CHB or neonatal lupus and their mothers
+for the presence of anti-SSA and anti-SSB is strongly recommended.
+
+DOI: 10.1016/j.patbio.2003.06.002 
+PMID: 15063933  [Indexed for MEDLINE]
+
+
+45. Circ Res. 2004 Mar 5;94(4):e32-8. Epub 2004 Feb 12.
+
+Functional basis of sinus bradycardia in congenital heart block.
+
+Hu K(1), Qu Y, Yue Y, Boutjdir M.
+
+Author information: 
+(1)Molecular and Cellular Cardiology Program, VA New York Harbor Healthcare
+System, SUNY Downstate Medical Center and NYU School of Medicine, Brooklyn, NY
+11209, USA.
+
+Congenital heart block (CHB) is a conduction abnormality characterized by
+complete atrioventricular (AV) block. CHB affects fetuses and/or newborn of
+mothers with autoantibodies reactive with ribonucleoproteins 48-kDa SSB/La,
+52-kDa SSA/Ro, and 60-kDa SSA/Ro. We recently established animal models of CHB
+and reported, for the first time, significant sinus bradycardia preceding AV
+block. This unexpected observation implies that the spectrum of conduction
+abnormalities extends beyond the AV node to also affect the SA node. To test this
+hypothesis, we investigated the functional basis of this sinus bradycardia by
+characterizing the effects of antibodies from mothers with CHB children (positive
+IgG) on ionic currents that are known to significantly contribute to spontaneous 
+pacing in SA node cells. We recorded L- (I(Ca.L)) and T- (I(Ca.T)) type Ca2+,
+delayed rectifier K+ (I(K)), hyperpolarization-activated (I(f)) currents, and
+action potentials (APs) from young rabbit SA node cells. We demonstrated that
+positive IgG significantly inhibited both I(Ca.T) and I(Ca.L) and induced sinus
+bradycardia but did not affect I(f) and I(K). Normal IgG from mothers with
+healthy children did not affect all the currents studied and APs. These results
+establish that IgG from mothers with CHB children causes substantial inhibition
+of I(Ca.T) and I(Ca.L), two important pacemaker currents in rabbit SA node cells 
+and point to both I(Ca.T) and I(Ca.L) as major players in the ionic mechanism by 
+which maternal antibodies induce sinus bradycardia in CHB. These novel findings
+have important clinical significance and suggest that sinus bradycardia may be a 
+potential marker in the detection and prevention of CHB. The full text of this
+article is available online at http://circres.ahajournals.org
+
+DOI: 10.1161/01.RES.0000121566.01778.06 
+PMID: 14963005  [Indexed for MEDLINE]
+
+
+46. Ultrasound Obstet Gynecol. 2003 Feb;21(2):189-91.
+
+Successful outcome in a fetus with an extremely low heart rate due to isolated
+complete congenital heart block.
+
+Vesel S(1), Zavrsnik T, Podnar T.
+
+Author information: 
+(1)Department of Paediatrics, Cardiology Unit, University Medical Centre,
+Ljubljana, Slovenia. samo.vesel@mf.uni-lj.si
+
+Isolated complete congenital heart block (CCHB) in a fetus is usually associated 
+with the presence of autoantibodies to SSA (Ro) and SSB (La) antigens in the
+maternal circulation. Although the prognosis for the majority of fetuses is good,
+it is less favorable in fetuses with a ventricular rate < 55 bpm in early
+pregnancy or with a decrease in the ventricular rate by >/= 5 bpm during
+pregnancy. It is not known if the same prognostic criteria apply for the
+occasional fetus with isolated non-autoimmune CCHB. We report a case of a single 
+fetus with an isolated non-autoimmune CCHB with an extremely low ventricular rate
+(37 bpm) in which the outcome was favorable. Dilated cardiomyopathy is a rare
+complication in patients with isolated CCHB, despite early institution of cardiac
+pacing, and is usually recognized after several months of relative well-being. It
+is assumed that in the majority of patients it represents a sequel to in utero
+autoimmune or postnatal reactivation myocarditis. However, the possibility of a
+tachycardia-induced cardiomyopathy caused by an excessively high pacing rate
+should also be taken into consideration, as was clearly demonstrated in our
+patient.
+
+Copyright 2003 ISUOG. Published by John Wiley & Sons, Ltd.
+
+DOI: 10.1002/uog.22 
+PMID: 12601845  [Indexed for MEDLINE]
+
+
+47. J Obstet Gynaecol. 2002 Mar;22(2):221-2.
+
+Congenital heart block presenting as persistent fetal bradycardia.
+
+Ghani R(1), Bedford NA.
+
+Author information: 
+(1)Department of Obstetrics and Gynaecology, Blackpool Victoria Hospital,
+Blackpool, UK.
+
+
+PMID: 12528702  [Indexed for MEDLINE]
+
+
+48. Obstet Gynecol. 2002 Nov;100(5 Pt 2):1087-9.
+
+Favorable outcome in a pregnancy with complete fetal heart block and severe
+bradycardia.
+
+Minassian VA(1), Jazayeri A.
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Texas Tech University Health Sciences
+Center, Lubbock, Texas, USA.
+
+BACKGROUND: Pregnancies complicated by congenital heart block usually have a poor
+prognosis when there is severe fetal bradycardia.
+CASE: We present a pregnancy with fetal heart rate of 40 beats per minute. She
+previously delivered a child with third-degree heart block by cesarean at 28
+weeks. This pregnancy was complicated by a high ribonucleoprotein antibody
+anti-Ro/SSA titer and fetal bradycardia. The patient was treated with steroids
+and beta-mimetics. The fetus continued to grow normally with reassuring
+biophysical profiles. After fetal lung maturity documentation at 34 weeks, she
+delivered by repeat cesarean a healthy 2349-g infant who required a permanent
+pacemaker.
+CONCLUSION: Reassuring antepartum testing and normal growth in pregnant women
+with anti-Ro/SSA antibodies and congenital heart block may allow expectant
+management until fetal maturity.
+
+
+PMID: 12423815  [Indexed for MEDLINE]
+
+
+49. Clin Rev Allergy Immunol. 2002 Dec;23(3):279-99.
+
+Neonatal lupus.
+
+Brucato A(1), Cimaz R, Stramba-Badiale M.
+
+Author information: 
+(1)Divisione Medica Brera and Rheumatology, Ospedale Niguarda, Milan, Italy.
+brucato.guareschi@libero.it
+
+Congenital heart block (CHB), defined as an atrioventricular block diagnosed in
+utero, at birth, or within the neonatal period (0-27 d after birth), is a rare
+disorder closely linked to transplacental transport of maternal antibodies
+anti-Ro/SSA and anti-La/SSB. These antibodies may induce a myocarditis, or
+interact directly with calcium channel proteins with disturbance of transmembrane
+signaling at the level of the conduction tissue, or interfere with apoptosis.
+Depending on the severity of the process, the fetus may die in utero or a few
+days after birth or survive to the perinatal period and have a near-normal life; 
+in most survivors a pace-maker must be implanted. Skin lesions, haematological
+disorders, and hepatic cholestasis are other transient clinical features of the
+syndrome. Sinus bradycardia and QT interval prolongation may be observed as well 
+in babies born from anti-Ro/SSA positive mothers. The risk of recurrence of
+complete block ranges from 10-17%. Most of the mothers are asymptomatic at
+delivery and are identified only by the birth of an affected child. Their
+long-term outcome generally is more reassuring than previously assumed and
+arthralgias and dry eyes are the most common symptoms. A standard therapy for
+blocks detected in utero still does not exist. The prevalence of complete CHB in 
+newborns of anti-Ro/SSA positive women and with known connective-tissue disease
+was 2%. Serial echocardiograms and obstetric sonograms, performed at least every 
+2 wk starting from the 16 wk gestation, are recommended in anti-Ro/SSA positive
+pregnant women.
+
+DOI: 10.1385/CRIAI:23:3:279 
+PMID: 12402413  [Indexed for MEDLINE]
+
+
+50. Indian J Pediatr. 2002 Jun;69(6):517-22.
+
+Congenital heart block in neonatal lupus: the pediatric cardiologist's
+perspective.
+
+Friedman DM(1), Rupel A, Glickstein J, Buyon JP.
+
+Author information: 
+(1)Department of Pediatrics, St. Luke's-Roosevelt Hospital Center, New York, New 
+York 10025, USA. dfriedman@slrhc.org
+
+CLINICAL PRESENTATION: Congenital heart block (CHB) in the absence of major
+structural abnormalities is associated with maternal antibodies to Ro (SS-A) and 
+La (SS-B). CHB is most commonly diagnosed between 18 and 24 wk of gestation, and 
+may be first, second or third degree (complete). Mortality approaches
+approximately 20%, and most surviving children require pacemakers. Affected
+infants may develop cardiomyopathy. Abnormalities in the skin, liver and blood of
+neonates are also associated with anti-Ro/La antibodies, and are usually
+self-limiting; these manifestations and CHB are collectively referred to as
+neonatal lupus syndromes (NLS).
+INVESTIGATION OF PATHOGENESIS: Recent studies demonstrate that Ro/La
+ribonucleoproteins appear on the surface of apoptotic fetal cardiocytes and are
+recognized by their cognate antibodies, promoting an inflammatory response. Mice 
+immunized with Ro/La proteins have offspring with conduction abnormalities. In
+vitro, human serum and IgG with anti-Ro/La antibodies affect the conducting
+properties of isolated animal heart tissue.
+DIAGNOSTIC PROBLEMS: If fetal bradycardia is identified, a 2-dimensional and
+M-mode fetal echocardiographic and Doppler ultrasound should be obtained to
+determine whether there is an atrial arrhythmia or atrioventricular (AV) block,
+and to what degree, and whether there are major structural abnormalities of the
+heart. The mother's serum should be tested by ELISA for anti-Ro and/or anti-La
+antibodies.
+THERAPEUTIC OPTIONS: To date, only anecdotal and retrospective evidence guides in
+utero therapy of CHB. A prospective trial is currently underway to evaluate the
+efficacy of maternal oral dexamethasone in treating newly identified first,
+second or third degree block. Established third-degree block appears to be
+irreversible. Dexamethasone and sympathomimetics may be of some benefit in
+treating hydrops fetalis. In pregnant women with anti-Ro/La antibodies,
+prophylactic therapy is not indicated but serial echocardiographic analysis is
+strongly recommended, with emphasis on the mechanical PR interval to identify a
+reversible block.
+CONCLUSION: CHB occurs in approximately 1-5% of pregnancies in mothers with
+anti-Ro/La antibodies, independent of the mother's disease status, and in
+approximately 15-20% of pregnancies following the birth of a child with NLS.
+Treatment of CHB identified in utero is not established but guidelines are
+provided. Serial echocardiographic monitoring of high-risk pregnancies, using the
+mechanical PR interval to identify first degree block, may afford the earliest
+opportunities for therapeutic intervention.
+
+
+PMID: 12139139  [Indexed for MEDLINE]
+
+
+51. Reumatismo. 2001;53(4):298-304.
+
+[Neonatal lupus: clinical features and risk of congenital cardiac heart block in 
+newborns from mothers with anti Ro/SSA antibodies]
+
+[Article in Italian]
+
+Frassi M(1), Brucato A, Cavazzana I, Franceschini F, Faden D, Motta M, Doria A,
+Cimaz R, Pisoni MP, Muscarà M, Castellino G, Brambilla G, Meroni PL, Cattaneo R, 
+Biasini Rebaioli C, Antonioli C, Balestrieri G, Tincani A.
+
+Author information: 
+(1)Servizio di Immunologia Clinica, Ospedale Niguarda, Milano; Italia.
+frassimicol@yahoo.it
+
+OBJECTIVE: To assess the prevalence of Congenital Heart Block (CHB) in newborns
+from anti Ro/SS-A antibodies positive mothers affected by connective tissue
+diseases (CTD) and to evaluate the prevalence of other manifestations of Neonatal
+Lupus (NL) and the electrocardiographic abnormalities. METHODS: A prospective
+study was conducted on 100 anti Ro/SS-A positive mothers that were followed
+before and during their 118 pregnancies (4 twin pregnancies and 18 second
+pregnancies). Counterimmunoelectroforesis (CIE) and immunoblot (IB) were used to 
+test antibodies to extractable nuclear antigens (ENA). RESULTS: Only 2 cases of
+CHB (1.8%) were found among the 112 living newborns. In one case the mother with 
+primary Sjögren's Syndrome (pSS) was anti Ro 60 and 52kD positive while in the
+other case the mother affected by undifferentiated connective tissue disease
+(UCTD) was anti Ro 60kD and anti La positive. No fetal death was due to CHB.
+There were no cutaneous rashes at birth while mild hepatic enzyme alterations
+were observed in 21 (68%) of the 31 tested newborns. In 22 healthy newborns an
+ECG have been registered and in 4 cases (18.2%) sinus bradycardia was found.
+During the follow up 7 suckling showed Cutaneous Neonatal Lupus. Moreover a six
+month girl developed Kawasaki Syndrome. CONCLUSIONS: The risk of delivering a
+child with CHB is 1.8% in anti Ro/SS-A positive mothers with CTD. This finding is
+extremely important in the preconceptional counseling of anti-Ro/SS-A positive
+women. Furthermore mild electrocardiographic abnormalities may be found in their 
+healthy newborns.
+
+
+PMID: 12089623 
+
+
+52. Lupus. 2002;11(3):145-51.
+
+Spectrum and progression of conduction abnormalities in infants born to mothers
+with anti-SSA/Ro-SSB/La antibodies.
+
+Askanase AD(1), Friedman DM, Copel J, Dische MR, Dubin A, Starc TJ, Katholi MC,
+Buyon JP.
+
+Author information: 
+(1)Department of Rheumatology and Medicine, Hospital for Joint Diseases, New York
+University School of Medicine, New York 10003, USA.
+
+Comment in
+    Lupus. 2002;11(3):135-6.
+
+The classic cardiac manifestation of neonatal lupus is congenital heart block,
+attributed to antibody-mediated inflammation and subsequent fibrosis of the
+atrioventricular (AV) node. In considering the pathologic process of injury it
+may be that tissue damage results in a range of conduction abnormalities.
+Identification of less-advanced degrees of block or of fibrosis around the AV
+node without any conduction abnormality on EKG would support this pathologic
+model, and serve as a potential marker for treatment if the conduction defect
+could be shown to progress. To ascertain the spectrum of arrhythmias associated
+with maternal anti-SSA/Ro-SSB/La antibodies, records of all children enrolled in 
+the Research Registry for Neonatal Lupus were reviewed. Of 187 children with
+congenital heart block whose mothers have anti-SSA/Ro-SSB/La antibodies, nine had
+a prolonged PR interval on EKG at birth, four of whom progressed to more advanced
+AV block. A child whose younger sibling had third degree block was diagnosed with
+first degree block at age 10 years at the time of surgery for a broken wrist. Two
+children diagnosed in utero with second degree block were treated with
+dexamethasone and reverted to normal sinus rhythm by birth, but ultimately
+progressed to third degree block. Four children had second degree block at birth:
+of these, two progressed to third degree block. Sinus bradycardia (< 100 bpm) was
+present in three (3.8%) of 78 fetuses for whom atrial rates were recorded by
+echocardiogram. Of 40 neonates for whom EKGs were available, the mean atrial rate
+was 137+/-20 bpm (range 75-200). These data have important research and clinical 
+implications. In contrast to the AV node, permanent sinoatrial nodal involvement 
+is not clinically apparent. Perhaps many fetuses sustain mild inflammation, but
+resolution is variable, as suggested by the presence of incomplete AV block.
+Since subsequent progression of less-advanced degrees of block can occur, an EKG 
+should be performed on all infants born to mothers with anti-SSA/Ro-SSB/La
+antibodies.
+
+DOI: 10.1191/0961203302lu173oa 
+PMID: 11999879  [Indexed for MEDLINE]
+
+
+53. J Med Assoc Thai. 2001 Jun;84 Suppl 1:S111-7.
+
+Complete heart block in children at King Chulalongkorn Memorial Hospital.
+
+Khongphatthanayothin A(1), Chotivitayatarakorn P, Benjacholamas V, Muangmingsuk
+S, Lertsupcharoen P, Thisyakorn C.
+
+Author information: 
+(1)Department of Pediatrics, Faculty of Medicine, Chulalongkorn University,
+Bangkok, Thailand.
+
+The etiologies of complete heart block in thirty-one children (mean age 5.5 +/-
+5.2 years, range 0-14 years) diagnosed at King Chulalongkorn Memorial Hospital
+between 1990-2001 were reviewed. Three main groups of patients were identified:
+1) patients who presented in utero or in the newborn period (congenital heart
+block, n = 6), 2) patients who had complete heart block after cardiac surgery
+(postoperative heart block, n = 10), and 3) children outside the newborn period
+with a new diagnosis of complete heart block unrelated to cardiac surgery
+(unknown etiology, n = 15). Among 15 patients in the last group, 5 were
+asymptomatic (or minimally symptomatic) with complete heart block unexpectedly
+found. These patients probably had previously undetected congenital heart block. 
+Two patients had complete heart block associated with mild viral illness, but no 
+bradycardia-related symptom. The etiology for heart block in these 2 patients was
+unknown. Eight patients probably had recent onset heart block because of new
+bradycardia-related symptoms, or a previously documented normal heart rate. All
+patients in this group were female (mean age 4.3 +/- 4.3 years, median 3.5
+years). All were diagnosed between August and January, and the majority (75%) had
+a history of non-specific viral illness in the preceding 2 weeks. Seven patients 
+(87.5%) were acutely symptomatic. Syncope and/or seizure were the most common
+presenting symptoms. Left ventricular systolic dysfunction was found in only one 
+patient. The etiology of complete heart block in these patients probably was an
+acute viral myocarditis that preferentially affected the conduction system. Two
+of these eight patients had complete recovery of the atrioventricular conduction.
+The rest had no improvement or had only partial recovery and subsequently
+underwent permanent cardiac pacemaker insertion.
+
+
+PMID: 11529322  [Indexed for MEDLINE]
+
+
+54. Trends Cardiovasc Med. 2000 Apr;10(3):114-22.
+
+Molecular and ionic basis of congenital complete heart block.
+
+Boutjdir M(1).
+
+Author information: 
+(1)Molecular and Cellular Cardiology Program, New York Harbor Healthcare System
+and SUNY Health Science Center, Brooklyn, New York, USA.
+mohamed.boutjdir@med.va.gov
+
+Congenital heart block (CHB), detected at or before birth in a structurally
+normal heart, is strongly associated with autoantibodies reactive with the
+intracellular soluble ribonucleoproteins 48kD SSB/La, 52kD SSA/Ro, and 60kD
+SSA/Ro. CHB is presumed to be due to the transplacental passage of autoantibodies
+from the mother into the fetal circulation. Varying degrees of heart block have
+been reported. Although second degree block has, on rare occasion, reverted to
+normal sinus rhythm, complete atrio-ventricular (AV) block is irreversible. CHB
+carries substantial mortality and morbidity, with > 60% of affected children
+requiring lifelong pacemakers. The recurrence rate exceeds, by at least twofold, 
+that of the first birth and is likely to influence the decision to have more
+children. Curiously, the mother's heart is almost never affected (with complete
+heart block) despite exposure to identical circulating autoantibodies. As part of
+our continuing effort to understand the complex factors contributing to the
+pathogenesis of CHB, we have established an animal model of CHB by immunizing
+female mice with recombinant proteins/antigens, reproduced the human complete AV 
+block in an isolated Langendorff perfused fetal heart, and correlated these
+findings with L-type Ca channel inhibition by maternal antibodies from mothers of
+children with CHB. In addition, we established a passive animal model by directly
+injecting maternal antibodies into pregnant mice and reported significant sinus
+bradycardia, indicating that the spectrum of conduction abnormalities may extend 
+beyond the AV node. All together, the data provided strong evidence supporting an
+etiologic role of antibody/Ca channel involvement in the pathogenesis of CHB.
+However, other yet unknown factors seem necessary to explain the full expression 
+of CHB.
+
+
+PMID: 11427998  [Indexed for MEDLINE]
+
+
+55. FASEB J. 2001 Jul;15(9):1539-45.
+
+Down-regulation of L-type calcium channel in pups born to 52 kDa SSA/Ro immunized
+rabbits.
+
+Xiao GQ(1), Qu Y, Hu K, Boutjdir M.
+
+Author information: 
+(1)Molecular and Cellular Cardiology Program, New York Harbor HealthCare System
+and SUNY Health Science Center, Brooklyn, New York 11209, USA.
+
+Congenital heart block is considered a model of passively acquired autoimmune
+disease in which the mother generates anti-SSA/Ro and/or anti-SSB/La antibodies
+that cross the placenta and presumably injure the heart of developing fetus. CHB 
+is accompanied by ECG abnormalities including AV block, sinus bradycardia, and
+ventricular dysfunction. Our previous data indicate that these abnormalities are 
+caused by maternal autoantibody-mediated disturbance of L-type Ca channels. To
+investigate the consequence of chronic exposure of L-type Ca channels in newborn 
+pups to maternal autoantibodies during pregnancy, we immunized female rabbits
+with human 52 kDa-SSA/Ro (Ro52) recombinant protein. ECG revealed that pups from 
+the immunized group had varying degrees of conduction defects. In addition,
+I(CaL) density and protein were reduced in hearts of pups from the immunized
+group. Sera and purified IgG from immunized rabbits inhibited I(Ba) recorded from
+oocytes with expressed alpha(1C) and beta(2a) subunits of L-type Ca channel. Pups
+born to Ro52 immunized mothers exhibited down-regulation of L-type calcium
+channels in heart. The data provide new insight into the pathogenesis of
+congenital heart block.
+
+
+PMID: 11427485  [Indexed for MEDLINE]
+
+
+56. Circulation. 2001 Mar 20;103(11):1599-604.
+
+Direct inhibition of expressed cardiac l- and t-type calcium channels by igg from
+mothers whose children have congenital heart block.
+
+Xiao GQ(1), Hu K, Boutjdir M.
+
+Author information: 
+(1)Molecular and Cellular Cardiology Program, New York Harbor Healthcare System
+and SUNY Health Science Center, Brooklyn, NY, USA.
+
+BACKGROUND: Congenital heart block (CHB) is a disease that affects the offspring 
+of mothers with autoimmune diseases. We recently reported that maternal sera
+containing antibodies against SSA/Ro and SSB/La ribonucleoproteins (positive IgG)
+inhibited L-type Ca current in isolated cardiac myocytes and induced sinus
+bradycardia in a murine model of CHB. The direct interaction of positive IgG with
+L-type Ca channel proteins and the possible inhibition of T-type Ca current that 
+could account for the sinus bradycardia remain unknown.
+METHODS AND RESULTS: The 2-electrode voltage-clamp technique was used to record
+currents via L-type (I(Ba)-alpha(1C) or I(Ba)-alpha(1C)+beta(2a)+alpha(2)/delta) 
+and T-type (I(Ba)-alpha(1H)) Ca channels, Na channels (I(Na)-hH1), and K channels
+(I(Ks)-minK+KvLQT1) expressed in Xenopus oocytes. Positive IgG (350 microgram/mL)
+inhibited I(Ba)-alpha(1C) by 50.6+/-4.7% (P<0.01) and
+I(Ba)-alpha(1C)+beta(2a)+alpha(2)/delta by 50.9+/-4.2% (P<0.01); I(Ba)-alpha(1H) 
+was reduced by 18.9+/-1.0% (P<0.01). Immunoblot data show cross-reactivity of
+positive IgG with alpha(1C) subunit. Pretreatment of oocytes with atropine (1
+micromol/L) or acetylcholine (10 micromol/L) did not affect the inhibitory effect
+of IgG on I(Ba)-alpha(1C) and I(Ba)-alpha(1C)+beta(2a)+alpha(2)/delta (P<0.05).
+Positive IgG had no effect, however, on either I(Na)-hH1 or I(Ks)-minK+KvLQT1.
+CONCLUSIONS: Positive IgG inhibited expressed L-type I:(Ba) and cross-reacted
+with the alpha(1C) subunit in Xenopus oocytes, providing strong evidence that
+maternal antibodies interact directly with the pore-forming alpha(1)-subunit of
+Ca channels. In addition, we show for the first time that positive IgG also
+inhibited T-type I(Ba) but not I(Na)-hH1 or I(Ks)-minK+KvLQT1. This could
+provide, in part, the ionic basis of sinus bradycardia reported in animal models 
+of CHB and clinically in humans.
+
+
+PMID: 11257091  [Indexed for MEDLINE]
+
+
+57. Am J Physiol Heart Circ Physiol. 2001 Apr;280(4):H1889-95.
+
+Optical mapping of activation patterns in an animal model of congenital heart
+block.
+
+Restivo M(1), Kozhevnikov DO, Boutjdir M.
+
+Author information: 
+(1)Molecular and Cellular Cardiology Program, Veterans Affairs New York Harbor
+Health Care System, Brooklyn, New York 11209, USA. mrestivo@bigfoot.com
+
+Congenital heart block (CHB) is associated with high mortality and affects
+children of mothers with autoantibodies (IgG) to ribonucleoproteins SSB/La and
+SSA/Ro. IgG from mothers of children with CHB (positive IgG) was used to assess
+activation patterns in both the right atrium (RA) and right ventricle (RV) of
+Langendorff-perfused young rabbit hearts. Optical action potentials (AP) were
+obtained by using a 124-site photodiode array with
+4-[-[2-(di-n-butylamino)-6-naphthyl]vinyl]pyridinium. Optical APs were recorded
+to simultaneously image activation patterns from the RA and RV. Perfusion of
+positive IgG (800--1,200 micro resulted in sinus bradycardia and varying degrees 
+of heart block. Activation maps revealed marked conduction delay at the
+sinoatrial junction but only minor changes in overall atrial and ventricular
+activation patterns. No conduction disturbances were seen in the presence of IgG 
+from mothers with healthy children. In conclusion, besides atrioventricular (AV) 
+block, positive IgG induces sinus bradycardia. These results establish that the
+sequelae of CHB are associated with impaired intrasinus and/or sinoatrial
+conduction. The findings raise the possibility that sinus bradycardia in the
+developing heart may indicate the potential for AV conduction disturbances.
+
+DOI: 10.1152/ajpheart.2001.280.4.H1889 
+PMID: 11247806  [Indexed for MEDLINE]
+
+
+58. Eur J Immunol. 2001 Feb;31(2):573-9.
+
+Induction of neonatal lupus in pups of mice immunized with synthetic peptides
+derived from amino acid sequences of the serotoninergic 5-HT4 receptor.
+
+Eftekhari P(1), Roegel JC, Lezoualc'h F, Fischmeister R, Imbs JL, Hoebeke J.
+
+Author information: 
+(1)UPR 9021 "Immunochimie des Peptides et des Virus" du Centre National de la
+Recherche Scientifique, Strasbourg, France.
+
+We have previously suggested that the recognition of a cross-reactive epitope on 
+the 5-HT4 receptor and the 52-kDa SSA/Ro protein by serotonin-antagonizing
+autoantibodies could explain the electrophysiological symptoms of congenital
+heart block in neonatal lupus. To confirm this hypothesis, we immunized female
+mice with four synthetic peptides corresponding to the recognized epitopes. All
+mice developed anti-peptide antibodies, which cross-reacted with the Ro52 and
+5-HT4 receptor peptides and recognized both cognate proteins. Peptide-immune mice
+were mated. The pups from mice immunized with the Ro52 peptides had no symptoms
+of neonatal lupus apart from bradycardia. However, pups from mice immunized with 
+the 5-HT4 receptor peptides and bradycardia, atrioventricular block of type I or 
+II, longer QT intervals, skin rashes and neuromotor problems. The 5-HT4 receptor 
+was detectable in the different fetal tissues affected (heart, skin and brain) by
+immunohistochemistry. Hearts from diseased pups were less developed and showed
+disorganized myocardial hyperplasia, compared to the normal littermates. These
+results demonstrate that the serotoninergic 5-HT4 receptor is the antigenic
+target of physiopathological autoantibodies in neonatal lupus.
+
+DOI: 10.1002/1521-4141(200102)31:2&#60;573::AID-IMMU573&#62;3.0.CO;2-9 
+PMID: 11180122  [Indexed for MEDLINE]
+
+
+59. Circulation. 1999 Apr 13;99(14):1914-8.
+
+Electrocardiographic abnormalities in a murine model injected with IgG from
+mothers of children with congenital heart block.
+
+Mazel JA(1), El-Sherif N, Buyon J, Boutjdir M.
+
+Author information: 
+(1)Cardiology Division, Veterans Administration Medical Center, and SUNY Health
+Science Center, Brooklyn, NY, USA.
+
+Comment in
+    Circulation. 2000 Sep 12;102(11):E88-9.
+
+BACKGROUND: It is a widely held view that congenital heart block (CHB) is caused 
+by the transplacental transfer of maternal autoantibodies (anti-SSA/Ro and/or
+anti-SSB/La) into the fetal circulation. To test this hypothesis and to reproduce
+human CHB, an experimental mouse model (BALB/c) was developed by passive transfer
+of human autoantibodies into pregnant mice.
+METHODS AND RESULTS: Timed pregnant mice (n=54) were injected with a single
+intravenous bolus of purified IgG containing human anti-SSA/Ro and anti-SSB/La
+antibodies from mothers of children with CHB. To parallel the "window period" of 
+susceptibility to CHB in humans, 3 groups of mice were used: 8, 11, and 16 days
+of gestation. Within each group, we tested 10, 25, 50, and 100 microg of IgG. At 
+delivery, ECGs were recorded and analyzed for conduction abnormalities.
+Bradycardia and PR interval were significantly increased in 8-, 11-, and 16-day
+gestational groups when compared with controls (P<0.05). QRS duration was not
+significantly different between all groups. Antibody levels measured by ELISA in 
+both mothers and their offspring confirmed the transplacental transfer of the
+human antibodies to the pups.
+CONCLUSIONS: The passive transfer model demonstrated bradycardia, first-degree
+but not complete atrioventricular block in pups. The greater percentage and
+degree of bradycardia and PR prolongation in the 11-day mouse group correlates
+with the "window period" of susceptibility observed in humans. The high incidence
+of bradycardia suggests possible sinoatrial node involvement. All together, these
+data provide relevant insights into the pathogenesis of CHB.
+
+
+PMID: 10199891  [Indexed for MEDLINE]
+
+
+60. Heart. 1998 Nov;80(5):525-6.
+
+1:1 atrioventricular conduction in congenital complete heart block.
+
+McLeod KA(1), Rankin AC, Houston AB.
+
+Author information: 
+(1)Department of Cardiology, Royal Hospital for Sick Children, Glasgow, UK.
+
+A female neonate with congenital complete heart block developed atrioventricular 
+conduction through an accessory pathway. Despite sinus rhythm and an adequate
+heart rate she developed severe dilated cardiomyopathy and died at age 14 months.
+This case illustrates that underlying heart block can be present in individuals
+with asymptomatic Wolff-Parkinson-White syndrome and that the dilated
+cardiomyopathy that occasionally accompanies autoimmune congenital heart block is
+not primarily caused by bradycardia.
+
+
+PMCID: PMC1728845
+PMID: 9930058  [Indexed for MEDLINE]
+
+
+61. Pediatr Res. 1998 Jul;44(1):11-9.
+
+Serum and immunoglobulin G from the mother of a child with congenital heart block
+induce conduction abnormalities and inhibit L-type calcium channels in a rat
+heart model.
+
+Boutjdir M(1), Chen L, Zhang ZH, Tseng CE, El-Sherif N, Buyon JP.
+
+Author information: 
+(1)Division of Cardiology, Veterans Administration Medical Center and Center for 
+Cardiovascular and Muscular Research, State University of New York, Brooklyn
+11209, USA.
+
+Although a strong clinical association exists between congenital heart block
+(CHB) and an immune response to SSA/Ro and SSB/La proteins, a causative role of
+these antibodies in the pathogenesis is just emerging. In a preliminary report,
+we have demonstrated that IgG fractions isolated from the sera of mothers whose
+children have CHB are arrhythmogenic in the human fetal heart. To more precisely 
+define the arrhythmogenic effect of anti-SSA/Ro-SSB/La antibodies, we used the
+readily available rat heart model to record: 1) ECGs from Langendorff beating
+hearts; 2) action potentials from atrioventricular (AV) nodal preparations; 3)
+L-type Ca currents, I(Ca) at the whole-cell and single channel levels; and 4)
+other currents such as the transient outward K+ current, I(to), the inward
+rectifier K+ current, I(K1), and the Na+ current, I(Na). Perfusion of hearts with
+purified IgG (800 microg/mL), isolated from the serum of a mother with SSA/Ro and
+SSB/La antibodies whose child had CHB, resulted in bradycardia associated with
+2:1 AV block. Simultaneous action potentials were recorded from dissected atrial 
+and AV nodal areas of the rat heart. Superfusion of these preparations with the
+same mother's IgG fraction resulted in 2:1 AV block followed by complete
+inhibition of AV nodal action potential. Because AV nodal electrogenesis is
+largely dependent on I(Ca), the effect of these antibodies on I(Ca) was
+subsequently determined. Superfusion of myocytes with whole serum or purified IgG
+(80 microg/mL) from the same mother consistently inhibited whole cell I(Ca),
+ensemble average Ba2+ currents (I(Ba)) and open state probability, p(o), without 
+affecting the channel conductance. IgG had no significant effect on I(to), I(K1),
+or I(Na). Whole sera and IgG fractions from a healthy mother with no detectable
+anti-SSA/Ro or SSB/La antibodies did not inhibit I(Ca) or I(Ba). These results
+demonstrate that IgG containing anti-SSA/Ro and -SSB/La antibodies induces
+complete AV block in beating hearts and in multicellular preparations, thus
+implicating a preferential interaction of these autoantibodies with Ca channels
+and/or associated regulatory proteins. This is consistent with the observed
+inhibition of Ca channels that may be a critical factor contributing to the
+pathogenesis of CHB.
+
+DOI: 10.1203/00006450-199807000-00002 
+PMID: 9667364  [Indexed for MEDLINE]
+
+
+62. Clin Cardiol. 1998 Apr;21(4):302-3.
+
+Cerebral infarction in a patient with congenital complete heart block.
+
+Hayabuchi Y(1), Matsuoka S, Nii M, Suzuya H, Kuroda Y.
+
+Author information: 
+(1)Department of Pediatrics, Tokushima University School of Medicine, Japan.
+
+Stokes-Adams attacks are fairly common in children with congenital complete heart
+block, but the occurrence of cerebral infarction is quite unusual. We present the
+case of a 13-year-old boy with congenital heart block and an embolic stroke
+involving the cerebral artery. Echocardiography revealed no valvular
+regurgitation, hypokinetic segments, mural thrombus, or myxoma.
+Electrocardiographic monitoring demonstrated good response of ventricular rate to
+exercise and no episodes of atrial or ventricular dysrhythmia. It is assumed that
+embolism occurred due to bradycardia.
+
+
+PMID: 9562944  [Indexed for MEDLINE]
+
+
+63. Pediatr Dermatol. 1997 May-Jun;14(3):221-5.
+
+Neonatal lupus erythematosus related to maternal leukocytoclastic vasculitis.
+
+Borrego L(1), Rodríguez J, Soler E, Jiménez A, Hernández B.
+
+Author information: 
+(1)Department of Dermatology, Hospital Insular, Las Palmas de Gran Canaria,
+Canary Islands, Spain.
+
+Neonatal lupus erythematosus (NLE) is an autoimmune disease whose major findings 
+are skin lesions and congenital heart block. Affected infants have maternal,
+transplacentally acquired, autoantibodies to Ro/SSA, La/SSB, or U1-RNP antigens. 
+Anti-Ro/SSA is the predominant autoantibody, present in about 95% of cases.
+Mothers of babies with NLE may be asymptomatic initially or may have Sjögren
+syndrome, lupus erythematosus, overlap syndrome or, uncommonly, leukocytoclastic 
+vasculitis. When evaluating a young woman with a cutaneous leucocytoclastic
+vasculitis, dermatologists should be aware of the possible presence of antibodies
+related to NLE. If any patient suffering a disorder related to NLE becomes
+pregnant, testing for autoantibodies and close obstetric prenatal care with fetal
+echocardiogram is necessary. In cases of fetal bradycardia, treatment with
+dexamethasone or betamethasone should be considered, as these drugs are
+accessible to the fetal circulation.
+
+
+PMID: 9192418  [Indexed for MEDLINE]
+
+
+64. Circ Res. 1997 Mar;80(3):354-62.
+
+Arrhythmogenicity of IgG and anti-52-kD SSA/Ro affinity-purified antibodies from 
+mothers of children with congenital heart block.
+
+Boutjdir M(1), Chen L, Zhang ZH, Tseng CE, DiDonato F, Rashbaum W, Morris A,
+el-Sherif N, Buyon JP.
+
+Author information: 
+(1)Division of Cardiology, Veterans Administration Medical Center, Brooklyn, NY
+11209, USA. boutjdir.mohamed@brooklyn.va.gov
+
+An important advance in the description and understanding of congenital heart
+block (CHB) came in the 1970s with the observation that mothers of affected
+infants frequently had autoimmune diseases and, in particular, that many maternal
+sera contained antibodies to SSA/Ro and SSB/La ribonucleoproteins. Although the
+molecular biology of the candidate antigens has been extensively defined, the
+arrhythmogenic and electrophysiological effects of their cognate antibodies on
+the human fetal heart are unknown. In the present study, we provide evidence that
+IgG-enriched fractions and anti-52-kD SSA/Ro antibodies affinity-purified from
+sera of mothers whose children have CHB induce complete atrioventricular (AV)
+block in the human fetal heart perfused by the Langendorff technique and inhibit 
+L-type Ca2+ currents at the whole-cell and single-channel level. Immunization of 
+female BALB/c mice with recombinant 52-kD SSA/Ro protein generated high-titer
+antibodies that crossed the placenta during pregnancy and were associated with
+varying degrees of AV conduction abnormalities, including complete AV block, in
+the pups. These findings strongly suggest that anti-52-kD SSA/Ro antibodies are
+causally related to the development of CHB.
+
+
+PMID: 9048655  [Indexed for MEDLINE]
+
+
+65. Intensive Care Med. 1996 May;22(5):464-6.
+
+Neonatal lupus erythematosus with congenital heart block and severe heart failure
+due to myocarditis and endocardititis of the mitral valve.
+
+Ferrazzini G(1), Fasnacht M, Arbenz U, Seger R, Biedermann R, Simma B, Uehlinger 
+J, Dangel P, Fanconi S.
+
+Author information: 
+(1)University Children's Hospital Zurich, Switzerland.
+
+We report a case of neonatal lupus erythematosus (NLE) with congenital heart
+block and severe myocardial failure, which was followed from the 25th week of
+gestation because of fetal bradycardia. The child was delivered at the 37th week 
+of gestation by elective cesarean section because of echocardiographically
+documented heart enlargement, pericardial effusion and moderate insufficiency of 
+the mitral and tricuspid valves. In spite of immediate pacing, intubation and
+supportive treatment, the newborn developed progressive heart failure.
+Echocardiography showed endocarditis of the mitral valve and diffuse myocarditis.
+The heart failure resolved under steroid treatment. Our experience supports the
+early use of steroids in treating myocarditis due to NLE. Intrauterine steroid
+treatment in the presence of fetal hydrops and congenital heart block is
+discussed.
+
+
+PMID: 8796403  [Indexed for MEDLINE]
+
+
+66. Am J Perinatol. 1994 Sep;11(5):353-5.
+
+A technique for intrapartum monitoring of fetuses with congenital bradycardias.
+
+Thorp JM Jr(1), Guidry AM.
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, University of North Carolina School
+of Medicine, Chapel Hill 27599-7570.
+
+Our objective was to construct from readily available components a system that
+would allow determination of P-wave to P-wave intervals in fetuses with
+congenital heart block. Using a fetal monitor, bedside patient monitor, spiral
+electrode, and a special cable described herein, we obtained direct fetal
+electrocardiograms from two fetuses with autoimmune heart block. Measurement of
+the atrial rate was made by determining the P-wave to P-wave interval. These
+determinations were compared to atrial rates measured by M-mode echocardiography 
+in utero and neonatal electrocardiograms. Atrial rates determined by direct fetal
+electrocardiogram were identical to rates obtained by M-mode echocardiography and
+within 10 beats/min of rates calculated from neonatal electrocardiograms.
+Premature ventricular contractions in one fetus were also detected. It is
+possible to perform continuous and accurate assessments of sinoatrial node
+activity in fetuses with congenital heart block using components readily
+available to most obstetricians.
+
+DOI: 10.1055/s-2007-994553 
+PMID: 7993517  [Indexed for MEDLINE]
+
+
+67. J Hepatol. 1994 Aug;21(2):224-6.
+
+Complete congenital heart block in autoimmune hepatitis (SLA-positive).
+
+Knolle P(1), Mayet W, Lohse AW, Treichel U, Meyer zum Büschenfelde KH, Gerken G.
+
+Author information: 
+(1)I. Medizinische Klinik und Poliklinik, Johannes Gutenberg-Universität Mainz,
+Germany.
+
+Complete congenital heart block is a serious complication of neonatal lupus
+erythematosus which most often occurs in children of mothers suffering from
+connective tissue disease. We report the occurrence of complete congenital heart 
+block associated with autoimmune hepatitis (SLA-positive). A 32-year-old woman
+was treated for more than 10 years for autoimmune hepatitis (SLA-/ANA-positive)
+and remained in clinical remission under immunosuppressive therapy. She showed an
+MHC-haplotype typical for autoimmune hepatitis (A1, B8, DR3). After a normal
+first pregnancy, an emergency caesarean section was performed in the 32nd week of
+her second pregnancy because of fetal bradycardia. The child died a few hours
+after delivery of complete congenital AV-block. Retrospective analysis of the
+maternal serum showed the emergence of SS-A/Ro-antibodies prior to the second
+pregnancy. The maternal serum antibodies were reactive with the 52 kD
+SS-A/Ro-antigen, as demonstrated by immunoblot employing recombinant
+SSA/Ro-antigen. The occurrence of complete congenital heart block has been shown 
+to be associated with the presence of SS-A/Ro antibodies as well as the
+MHC-haplotype DR3. With respect to this genetic linkage, pregnant patients with
+autoimmune hepatitis and the MHC-haplotype DR3 should be examined for the
+presence of SS-A/Ro-antibodies. They should be closely followed during pregnancy 
+to enable early detection of the development of congenital heart block, as
+prevention by plasmapheresis plus dexamethasone may be possible at an early
+stage.
+
+
+PMID: 7989713  [Indexed for MEDLINE]
+
+
+68. Tijdschr Kindergeneeskd. 1993 Oct;61(5):178-82.
+
+[Congenital complete atrioventricular block in neonatal lupus erythematosus].
+
+[Article in Dutch]
+
+Andriessen P(1), Tanke R, Fiselier T.
+
+Author information: 
+(1)Afd. Kindergeneeskunde, Academisch Ziekenhuis Nijmegen.
+
+Fetal bradycardia of 60 beats per minute was diagnosed in the 22nd week of a
+normal pregnancy. Echocardiography showed a complete fetal atrioventricular heart
+block. The fetal heart was without structural abnormalities. Auto-antibodies
+(Ro/SS-A and antinuclear antibodies) could be demonstrated in both mother and
+child. The mother, however, showed no signs or symptoms of a connective tissue
+disease. We describe neonatal lupus erythematosus as an important cause of
+congenital heart block.
+
+
+PMID: 8266312  [Indexed for MEDLINE]
+
+
+69. Arq Bras Cardiol. 1992 Oct;59(4):261-4.
+
+[Fetal atrioventricular block].
+
+[Article in Portuguese]
+
+Lopes LM(1), Cha SC, Sadek L, Iwahashi ER, Aiello VD, Zugaib M.
+
+Author information: 
+(1)Departamento de Obstetrícia e Ginecologia, Hospital das Clínicas, FMUSP.
+
+PURPOSE: To study the pathogenesis, evolution and prognosis of the complete heart
+block of the fetus.
+METHODS: Bidimensional echocardiography associated to M-mode and doppler was
+performed in 600 patients. All cases of congenital heart block were referred
+because the fetuses presented hydrops, bradycardia and/or cardiac malformation
+suspected by routine ultrasound.
+RESULTS: Isolated heart block was found in 6 fetuses (5 cases of complete type
+and 1 case of 2nd degree type 2:1). Heart block associated with complex cardiac
+disease and left atrial isomerism was found in 6 fetuses with no survivors (5
+cases of complete type and 1 case of 2nd degree type 2:1). Heart block associated
+with atrioventricular discordante was found in 1 case.
+CONCLUSION: The findings of this study agree the literature about the relation
+between maternal anti-RO antibodies and isolated complete heart block. We also
+found a poor prognosis in the group with heart block and complex cardiac
+malformations.
+
+
+PMID: 1341181  [Indexed for MEDLINE]
+
+
+70. Am J Reprod Immunol. 1992 Oct-Dec;28(3-4):264-8.
+
+Neonatal lupus erythematosus in offspring of mothers with experimental systemic
+lupus erythematosus.
+
+Kalush F(1), Rimon E, Mozes E.
+
+Author information: 
+(1)Department of Chemical Immunology, Weizmann Institute of Science, Rehovot,
+Israel.
+
+Neonatal lupus erythematosus (NLE) syndrome is a result of the transfer of
+autoantibodies produced by the mother, across the placenta, to the fetus. NLE is 
+characterized by a transient dermatitis, a variety of systemic and hematological 
+abnormalities, and isolated cases of congenital heart block. The latter has been 
+reported to be due to the presence of autoantibodies specific to La (SS-B) and/or
+Ro (SS-A). As female mice with experimental SLE, induced by immunization with the
+monoclonal anti-DNA 16/6 Id, produce a variety of autoantibodies including
+anti-Ro and anti-La antibodies, we examined the relevance of NLE in the murine
+system. Offspring of SLE-afflicted BALB/c mothers possessed antibody titers to
+the 16/6 Id, ssDNA, and nuclear extract, which gradually declined until reduced
+to normal levels by day 60 after delivery. Antibody titers in the sera of the
+mothers remained elevated throughout this period. Electrocardiograms were
+recorded from groups of neonates from mothers with experimental SLE. The results 
+indicated that a high percentage of the offspring had defects in their conduction
+system including first, second, and third degree heart block; significant
+bradycardia; and wide QRS complex. Normal patterns were observed in offspring of 
+healthy mothers. Experiments done with mice that were exposed to SLE-related
+autoantibodies early in their development indicated that offspring to mothers
+with experimental SLE were neither protected nor more susceptible to disease
+induction by the 16/6 Id.
+
+
+PMID: 1285898  [Indexed for MEDLINE]
+
+
+71. Am J Obstet Gynecol. 1991 Sep;165(3):553-4.
+
+Steroid therapy for hydrops associated with antibody-mediated congenital heart
+block.
+
+Watson WJ(1), Katz VL.
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, University of North Carolina, Chapel 
+Hill 27599-7570.
+
+Evaluation of fetal bradycardia noted during a routine prenatal visit at 24
+weeks' gestation in a mother without symptoms showed an antibody-mediated heart
+block with anti-La (SSB) antibody present. The fetus had a pericardial effusion
+and ascites. After maternal steroid therapy, the ascites resolved and the
+pericardial effusion was substantially diminished. Steroid therapy may be a
+helpful adjunct for treatment of a premature infant with hydrops as a result of
+antibody-mediated heart block.
+
+
+PMID: 1892179  [Indexed for MEDLINE]
+
+
+72. Arch Mal Coeur Vaiss. 1991 May;84(5):659-64.
+
+[Holter monitoring, exercise test and atropine test in isolated congenital
+atrioventricular block in children].
+
+[Article in French]
+
+Chammas E(1), Vaksmann G, Kacet S, Rey C, Brevière GM, el Kohen M, Dupuis C.
+
+Author information: 
+(1)Service de cardiologie infantile, Hôpital Cardiologique de Lille.
+
+Twenty-four patients with isolated congenital heart block were investigated by
+24-hour Holter monitoring at an average age of 9.3 +/- 5.5 years. Six patients
+were symptomatic and 18 were asymptomatic. Eight asymptomatic patients underwent 
+exercise stress tests and an atropine test was performed in 10 asymptomatic
+patients to evaluate the capacity to accelerate the heart rate. The symptomatic
+patients were older than the asymptomatic patients. None of the parameters which 
+analyse ventricular rate were significantly different in the two groups of
+patients. Significant ventricular arrhythmias (Lown Grade 2 or over) were
+recorded in 1 symptomatic and 3 asymptomatic patients. The incidence of these
+ventricular arrhythmias increased with age and degree of bradycardia. The
+percentage increase in ventricular rate after atropine correlated with what was
+observed on effort (r = 0.95, p = 0.01) but there was no relationship between the
+ventricular rates during these two tests and those recorded on Holter monitoring.
+The results of this series of children with isolated congenital heart block show 
+the Holter parameters cannot distinguish symptomatic from asymptomatic patients. 
+The exercise stress and atropine tests gave very similar results but their
+prognostic value has not yet been established.
+
+
+PMID: 1898199  [Indexed for MEDLINE]
+
+
+73. Ann Med Interne (Paris). 1990;141(3):234-8.
+
+[Congenital atrioventricular block and maternal autoimmune diseases].
+
+[Article in French]
+
+Herreman G(1), Sauvaget F, Généreau T, Galezowski N.
+
+Author information: 
+(1)Service de Médecine Interne, Hôpital Saint-Joseph, Paris.
+
+Congenital heart block is rare; it is acquired in utero, definitive and, more
+often than not, complete. It can be diagnosed by the appearance of fetal
+bradycardia around the 23rd week of gestation, during ultrasonographic monitoring
+of pregnancy. Heart block is usually associated with the presence of anti-Ro
+and/or anti-La antibodies in the mother's serum. These maternal immunological
+abnormalities can be isolated or associated with an autoimmune disease, usually
+systemic lupus erythematosus, but also Sjögren's syndrome, or more rarely still, 
+an as yet unclassified connective tissue disease. Anti-Ro and anti-La antibodies 
+cross the placental barrier and react with a fetal heart, leading to acute fetal 
+myocarditis by the 17th week of gestation. When severe, it is lethal, otherwise
+it can result in degeneration and endocardial fibroelastosis, disrupting
+conduction and leading to congenital heart block. The ideal treatment would be
+prevention with corticosteroids. When the mother is Ro or La antibody-positive
+before pregnancy, elimination of these circulating antibodies can be attempted by
+treatment with 0.5 mg/kg body wt/d of prednisolone for 3 months. If the treatment
+is successful, corticotherapy can be prescribed early in the pregnancy to try to 
+protect the fetus. However, there is not always a relationship between maternal
+anti-Ro antibodies and fetal heart block. If the Ro/La antibody-positive woman is
+already pregnant, but before her 17th week, it is possible to prescribe
+dexamethasone, which crosses the placenta and remains active, sometimes in
+association with plasmapheresis.
+
+
+PMID: 2369012  [Indexed for MEDLINE]
+
+
+74. Clin Cardiol. 1985 Jan;8(1):1-10.
+
+Two-dimensional and M-mode echocardiographic evaluation of fetal arrhythmia.
+
+Crowley DC, Dick M, Rayburn WF, Rosenthal A.
+
+Cardiac anatomy and rhythm were evaluated in the fetuses of 18 pregnant women
+(between 20 and 42 weeks of gestation) referred because of abnormal fetal heart
+rate or rhythm. Utilizing a 3 MHz two-dimensional scan head with M-mode
+capability, M-mode recordings were obtained at paper speeds of 50 and 100 mm/s
+from 16 fetuses. The arrhythmia of two fetuses was diagnosed using
+two-dimensional echo alone. Semilunar and atrioventricular valve opening and
+closing points, A waves, plus ventricular wall motion were used for timing
+purposes; and heart rate and rhythm were determined. Diagnoses made were atrial
+premature beats n = 3, ventricular premature beats n = 3, congenital heart block 
+n = 4, supraventricular tachycardia n = 3, sinus bradycardia n = 1, and blocked
+atrial beats n = 1. In three fetuses no arrhythmia was identified. Cardiac
+anatomy was normal in 16 fetuses, with two (congenital heart block) felt to have 
+univentricular hearts. Fourteen pregnancies went to term, two were delivered
+prematurely, and two fetuses with congenital heart block were stillborn. In three
+fetuses arrhythmia was confirmed during labor by fetal scalp electrode.
+Arrhythmia was absent after birth in 11 of 16 infants, with congenital heart
+block persistent in two infants, and supraventricular tachycardia, atrial
+premature beats, and blocked atrial premature beats remaining in one each.
+Intervention with medical management was attempted in four pregnancies, with
+successful termination of arrhythmia supraventricular tachycardia) in two
+fetuses. We conclude that combined two-dimensional M-mode capability is useful in
+the diagnosis of fetal rhythm disturbances, and perhaps in the selection of
+timing, and mode of intervention.
+
+
+PMID: 3967400  [Indexed for MEDLINE]
+
+
+75. An Esp Pediatr. 1983 Jun;18(6):510-4.
+
+[Congenital heart block in a newborn infant born to a mother with lupus
+erythematosus].
+
+[Article in Spanish]
+
+Jiménez R, Figueras J, Botet F, Cruz M.
+
+We report a case of a newborn with a congenital heart-block. Clinical picture
+began with bradycardia and heart failure from birth. The mother had a systemic
+lupus erythematosus in remission during pregnancy suffering a reactivation after 
+delivery. This report deals about the greater incidence of congenital heart-block
+in the lupus-mother's newborns and we expose some etiopathogenic hypothesis. Also
+we point-out the easy clinical and electrocardiographic diagnosis that shows a
+third degree heart-block with atrioventricular dissociation and atrial frequency 
+two or three times greater than ventricular. It's established the differential
+diagnosis among neonatal bradycardias and congenital heart-blocks. The treatment 
+with isoproterenol was ineffective. A pacemaker was need.
+
+
+PMID: 6684891  [Indexed for MEDLINE]
+
+
+76. S Afr Med J. 1981 Aug 15;60(7):285-6.
+
+Maternal systemic lupus erythematosus associated with fetal congenital heart
+block. A case report.
+
+Moore PJ.
+
+Congenital heart block (CHB) is a rare cause of fetal bradycardia and, if
+misinterpreted as fetal distress, may lead to detrimental obstetric intervention.
+There is a definite association between systemic lupus erythematosus (SLE), as
+well as other connective tissue disorders in the mother and CHB in her offspring.
+A case of CHB in the child of a mother with asymptomatic SLE is reported and a
+useful diagnostic investigation, the sonar-atropine test, is described.
+
+
+PMID: 7256481  [Indexed for MEDLINE]
+
+
+77. Am J Forensic Med Pathol. 1980 Jun;1(2):131-7.
+
+Heterotopic epithelial replacement (so-called "mesothelioma") of the
+atrioventricular node, congenital heart block, and sudden death.
+
+Lie JT, Lufschanowski R, Erickson EE.
+
+Heterotopic epithelial replacement (so-called "mesothelioma") of the
+atrioventricular node is a rare cause of congenital heart block and sudden death;
+only about 50 cases have been reported in the literature in predominantly female 
+patients ranging in age from infancy to 86 years. The lesion is virtually
+impossible to diagnose clinically and can be recognized at postmortem only by
+histologic examination of the atrioventricular conduction tissue. A unique case
+is reported since the patient, a young, asymptomatic woman, was chosen by chance 
+as the subject of an electrophysiologic study of bradycardia 6 years before her
+sudden death. The morphologic (light- and electron-microscopic) findings of the
+atrioventricular node studied at autopsy were supportive of heterotopic
+epithelial origin of the lesion. The disputed histogenesis is briefly discussed.
+
+
+PMID: 7246505  [Indexed for MEDLINE]
+
+
+78. AJR Am J Roentgenol. 1979 Sep;133(3):546-7.
+
+Prenatal ultrasonic detection of congenital heart block.
+
+Silver TM, Wicks JD, Spooner EW, Cohen SM.
+
+DOI: 10.2214/ajr.133.3.546 
+PMID: 111523  [Indexed for MEDLINE]
+
+
+79. J Reprod Med. 1979 Apr;22(4):213-6.
+
+Congenital, complete heart block in the infant of a woman with collagen vascular 
+disease. A case report.
+
+Kosmetatos N, Blackman MS, Elrad H, Aubry RH.
+
+Persistent fetal bradycardia may have multiple etiologies. The following
+represents a case of persistent fetal bradycardia due to congenital heart block
+in the infant of a woman with suspected collagen vascular disease. A review of
+the literature and a discussion of the association of maternal collagen vascular 
+disease and congenital heart block is presented. The prognosis of infants with
+congenital heart block is reviewed and the possible association with growth
+retardation discussed.
+
+
+PMID: 458765  [Indexed for MEDLINE]
+
+
+80. Obstet Gynecol. 1979 Mar;53(3 Suppl):59S-61S.
+
+Antenatal detection of fetal A-V dissociation utilizing real-time B-mode
+ultrasound.
+
+Platt LD, Manning FA, Gray C, Guttenburg M, Turkel SB.
+
+Congenital heart block is an unusual cause of fetal bradycardia. Until recently, 
+the diagnosis could be confirmed only by evaluation of the fetal cardiac
+electrical activity. Two cases are reported in which the diagnosis of
+atrio-ventricular (A-V) dissociation was confirmed in the antepartum period by
+real-time ultrasound evaluation of cardiac mechanical activity.
+
+
+PMID: 424130  [Indexed for MEDLINE]
+
+
+81. Eur J Cardiol. 1978 Jul;7(5-6):337-51.
+
+The syndromes of familial atrioventricular block with sinus bradycardia:
+prognostic indices, electrophysiologic and histopathologic correlates.
+
+Schneider MD, Roller DH, Morganroth J, Josephson ME.
+
+A family with adult onset heart block (AOHB) and sinus bradycardia (SB) was
+investigated 5 yr after previous study. A 44-yr-old female previously 'normal'
+presented ECG evidence of 1st-degree and 2nd-degree atrioventricular block (AVB) 
+with normal intraventricular conduction and episodic 3rd-degree AVB. His bundle
+electrocardiography (HBE) demonstrated A--H prolongation (245msec) with normal
+H--V time during sinus rhythm and 3rd-degree AV nodal block with a His bundle
+escape rhythm. Sinus node function served in first-order relatives. HBE and sinus
+node function were normal in a 38-yr-old sister with new SB. 37 families with
+familial 3rd-degree AVB were reviewed with attention to prognostic indices and
+electrophysiologic-pathologic correlates. The incidence of conduction
+abnormalities supported an autosomal dominant transmission with variable
+penetrance. Subsidiary pacemaker rate and QRS morphology showed no discriminative
+value with respect to prognosis. HBS identified A--H prolongation in 2 patients
+with AOHB and 2 with AOHB and SB, with coexistent H--V conduction delay in 2
+cases of AOHB and SB with abnormal QRS morphology. Histopathology was variable,
+but the finding of multiple lesions in 2 of 5 patients with congenital heart
+block and each of 2 with AOHB and SB suggests that mixed conduction system
+disease is prevalent in familial heart block.
+
+
+PMID: 699934  [Indexed for MEDLINE]
+
+
+82. Z Geburtshilfe Perinatol. 1977 Aug;181(4):298-301.
+
+[Antenatal diagnosis of a foetal heart block in the 33. week of pregnancy
+(author's transl)].
+
+[Article in German]
+
+Methfessel G, Methfessel HD, Wagner G.
+
+In a pregnant woman of 20 years is recorded a foetal bradycardia of 60 beats per 
+minute in the 33. week of pregnancy. The woman too had an influenza. The
+cardiological examination shows a congenital complete heart block. After
+spontaneous delivery of a male infant at date the heart block persists for more
+than 7 months. There are are no malformations; a interdependence with
+influenza-infection of the mother is not to be proved. The diagnosis of the
+congenital heart block is rare. Of 40 cases pointed out in the literature only 3 
+cases has been diagnosed before the 35. week of pregnancy.
+
+
+PMID: 906613  [Indexed for MEDLINE]
+
+
+83. Obstet Gynecol. 1977 Jul;50(1 Suppl):50s-52s.
+
+Fetal bradycardia without fetal distress: case presentation and review of the
+literature.
+
+Webster RD, Cudmore DW, Gray J.
+
+A case of a term pregnancy with a persistent fetal heart rate of 65 to 80
+beats/min is presented. Initially this was presumed to be due to congenital heart
+block. Subsequent fetal ECG revealed blocked atrial extrasystoles. Review of the 
+literature showed 31 previously reported cases of heart block diagnosed in utero.
+A review of this literature is discussed and the importance of differentiating
+bradycardia due to heart block from bradycardia due to fetal distress is
+emphasized.
+
+
+PMID: 876543  [Indexed for MEDLINE]
+
+
+84. Obstet Gynecol. 1968 Dec;32(6):851-3.
+
+Antenatal diagnosis of congenital heart block. Report of a case.
+
+Teteris NJ, Chisholm JW, Ullery JC.
+
+
+PMID: 5742500  [Indexed for MEDLINE]
+
+
+85. Ann Chir Gynaecol Fenn. 1963;52:575-9.
+
+A CASE OF CONGENITAL HEART BLOCK DIAGNOSED ANTENATALLY BY FETAL
+ELECTROCARDIOGRAPHY.
+
+JAERVINEN PA, OSTERLUND K.
+
+
+PMID: 14083861  [Indexed for MEDLINE]
+
