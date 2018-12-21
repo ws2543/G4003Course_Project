@@ -1,0 +1,399 @@
+HP:0001662	Bradycardia	0.157243816254	
+HP:0001635	Congestive heart failure	0.114840989399	
+HP:0002725	Systemic lupus erythematosus	0.0901060070671	
+HP:0007417	Discoid lupus rash	0.0901060070671	
+HP:0001622	Premature birth	0.0724381625442	
+HP:0001279	Syncope	0.0618374558304	
+HP:0001695	Cardiac arrest	0.0583038869258	
+HP:0001657	Prolonged QT interval	0.0565371024735	
+HP:0011410	Caesarian section	0.047703180212	
+HP:0001629	Ventricular septal defect	0.0441696113074	
+HP:0001699	Sudden death	0.0406360424028	
+HP:0001789	Hydrops fetalis	0.0406360424028	
+HP:0011704	Sick sinus syndrome	0.0388692579505	
+HP:0012819	Myocarditis	0.0353356890459	
+HP:0004756	Ventricular tachycardia	0.0353356890459	
+HP:0000969	Edema	0.0335689045936	
+HP:0011712	Right bundle branch block	0.0318021201413	
+HP:0003826	Stillbirth	0.030035335689	
+HP:0002960	Autoimmunity	0.0282685512367	
+HP:0001664	Torsade de pointes	0.0247349823322	
+HP:0001649	Tachycardia	0.0247349823322	
+HP:0011540	Congenitally corrected transposition of the great arteries	0.0247349823322	
+HP:0001631	Atrial septal defect	0.0247349823322	
+HP:0002664	Neoplasm	0.0229681978799	
+HP:0004308	Ventricular arrhythmia	0.0229681978799	
+HP:0001250	Seizures	0.0229681978799	
+HP:0011713	Left bundle branch block	0.0229681978799	
+HP:0002321	Vertigo	0.0212014134276	
+HP:0001750	Single ventricle	0.0194346289753	
+HP:0001688	Sinus bradycardia	0.0194346289753	
+HP:0001369	Arthritis	0.0194346289753	
+HP:0001669	Transposition of the great arteries	0.017667844523	
+HP:0004929	obsolete Coronary atherosclerosis	0.017667844523	
+HP:0002617	Dilatation	0.017667844523	
+HP:0001651	Dextrocardia	0.017667844523	
+HP:0002090	Pneumonia	0.017667844523	
+HP:0001642	Pulmonic stenosis	0.017667844523	
+HP:0006682	Ventricular extrasystoles	0.017667844523	
+HP:0001518	Small for gestational age	0.017667844523	
+HP:0003363	Abdominal situs inversus	0.0159010600707	
+HP:0100584	Endocarditis	0.0159010600707	
+HP:0005301	Persistent left superior vena cava	0.0159010600707	
+HP:0001871	Abnormality of blood and blood-forming tissues	0.0141342756184	
+HP:0000275	Narrow face	0.0141342756184	
+HP:0100749	Chest pain	0.0141342756184	
+HP:0003261	Increased IgA level	0.0141342756184	
+HP:0000006	Autosomal dominant inheritance	0.0141342756184	
+HP:0001706	Endocardial fibroelastosis	0.0123674911661	
+HP:0001663	Ventricular fibrillation	0.0123674911661	
+HP:0030148	Heart murmur	0.0123674911661	
+HP:0001541	Ascites	0.0123674911661	
+HP:0000961	Cyanosis	0.0123674911661	
+HP:0012531	Pain	0.0123674911661	
+HP:0003493	Antinuclear antibody positivity	0.0123674911661	
+HP:0005180	Tricuspid regurgitation	0.0123674911661	
+HP:0011645	Dilatation of the sinus of Valsalva	0.0106007067138	
+HP:0003198	Myopathy	0.0106007067138	
+HP:0000988	Skin rash	0.0106007067138	
+HP:0001640	Cardiomegaly	0.0106007067138	
+HP:0001647	Bicuspid aortic valve	0.0106007067138	
+HP:0001324	Muscle weakness	0.0106007067138	
+HP:0011710	Bundle branch block	0.0106007067138	
+HP:0011711	Left anterior fascicular block	0.0106007067138	
+HP:0000078	Abnormality of the genital system	0.0106007067138	
+HP:0001671	Abnormal cardiac septum morphology	0.0106007067138	
+HP:0001297	Stroke	0.0106007067138	
+HP:0001636	Tetralogy of Fallot	0.0106007067138	
+HP:0011709	Atrioventricular dissociation	0.00883392226148	
+HP:0001696	Situs inversus totalis	0.00883392226148	
+HP:0001693	Cardiac shunt	0.00883392226148	
+HP:0001698	Pericardial effusion	0.00883392226148	
+HP:0000083	Renal insufficiency	0.00883392226148	
+HP:0001716	Wolff-Parkinson-White syndrome	0.00883392226148	
+HP:0002376	Developmental regression	0.00883392226148	
+HP:0001684	Secundum atrial septal defect	0.00883392226148	
+HP:0002329	Drowsiness	0.00883392226148	
+HP:0004309	Ventricular preexcitation	0.00883392226148	
+HP:0001645	Sudden cardiac death	0.00883392226148	
+HP:0006689	Bacterial endocarditis	0.00883392226148	
+HP:0000365	Hearing impairment	0.00883392226148	
+HP:0004334	Dermal atrophy	0.00883392226148	
+HP:0002527	Falls	0.00883392226148	
+HP:0011716	Junctional ectopic tachycardia	0.00883392226148	
+HP:0001659	Aortic regurgitation	0.00883392226148	
+HP:0030682	Left ventricular noncompaction	0.00883392226148	
+HP:0006695	Atrioventricular canal defect	0.00883392226148	
+HP:0011537	Left atrial isomerism	0.00883392226148	
+HP:0000822	Hypertension	0.00883392226148	
+HP:0001511	Intrauterine growth retardation	0.00883392226148	
+HP:0003115	Abnormal EKG	0.00706713780919	
+HP:0004325	Decreased body weight	0.00706713780919	
+HP:0004324	Increased body weight	0.00706713780919	
+HP:0001705	Right ventricular outlet obstruction	0.00706713780919	
+HP:0002615	Hypotension	0.00706713780919	
+HP:0005099	Severe hydrops fetalis	0.00706713780919	
+HP:0003577	Congenital onset	0.00706713780919	
+HP:0010783	Erythema	0.00706713780919	
+HP:0001719	Double outlet right ventricle	0.00706713780919	
+HP:0001658	Myocardial infarction	0.00706713780919	
+HP:0002624	Abnormal venous morphology	0.00706713780919	
+HP:0001973	Autoimmune thrombocytopenia	0.00706713780919	
+HP:0001643	Patent ductus arteriosus	0.00706713780919	
+HP:0010316	Ebstein anomaly of the tricuspid valve	0.00706713780919	
+HP:0001263	Global developmental delay	0.00706713780919	
+HP:0005268	Spontaneous abortion	0.00706713780919	
+HP:0001655	Patent foramen ovale	0.00706713780919	
+HP:0012721	Venous malformation	0.00706713780919	
+HP:0002878	Respiratory failure	0.00706713780919	
+HP:0001677	Coronary artery atherosclerosis	0.00706713780919	
+HP:0004383	Hypoplastic left heart	0.00706713780919	
+HP:0003676	Progressive	0.00706713780919	
+HP:0011536	Right atrial isomerism	0.00706713780919	
+HP:0003745	Sporadic	0.00706713780919	
+HP:0012115	Hepatitis	0.00530035335689	
+HP:0011703	Sinus tachycardia	0.00530035335689	
+HP:0001747	Accessory spleen	0.00530035335689	
+HP:0001667	Right ventricular hypertrophy	0.00530035335689	
+HP:0002119	Ventriculomegaly	0.00530035335689	
+HP:0001159	Syndactyly	0.00530035335689	
+HP:0001396	Cholestasis	0.00530035335689	
+HP:0002094	Dyspnea	0.00530035335689	
+HP:0100806	Sepsis	0.00530035335689	
+HP:0001873	Thrombocytopenia	0.00530035335689	
+HP:0001903	Anemia	0.00530035335689	
+HP:0006704	Abnormal coronary artery morphology	0.00530035335689	
+HP:0003761	Calcinosis	0.00530035335689	
+HP:0000141	Amenorrhea	0.00530035335689	
+HP:0001945	Fever	0.00530035335689	
+HP:0012393	Allergy	0.00530035335689	
+HP:0001748	Polysplenia	0.00530035335689	
+HP:0004763	Paroxysmal supraventricular tachycardia	0.00530035335689	
+HP:0003581	Adult onset	0.00530035335689	
+HP:0000819	Diabetes mellitus	0.00530035335689	
+HP:0001427	Mitochondrial inheritance	0.00530035335689	
+HP:0001654	Abnormal heart valve morphology	0.00530035335689	
+HP:0000670	Carious teeth	0.00530035335689	
+HP:0011123	Inflammatory abnormality of the skin	0.00530035335689	
+HP:0001510	Growth delay	0.00530035335689	
+HP:0012378	Fatigue	0.00530035335689	
+HP:0100730	Bronchogenic cyst	0.00353356890459	
+HP:0002900	Hypokalemia	0.00353356890459	
+HP:0001791	Fetal ascites	0.00353356890459	
+HP:0002643	Neonatal respiratory distress	0.00353356890459	
+HP:0001746	Asplenia	0.00353356890459	
+HP:0011682	Perimembranous ventricular septal defect	0.00353356890459	
+HP:0030080	Burkitt lymphoma	0.00353356890459	
+HP:0002202	Pleural effusion	0.00353356890459	
+HP:0000789	Infertility	0.00353356890459	
+HP:0002721	Immunodeficiency	0.00353356890459	
+HP:0001623	Breech presentation	0.00353356890459	
+HP:0000718	Aggressive behavior	0.00353356890459	
+HP:0002871	Central apnea	0.00353356890459	
+HP:0011565	Common atrium	0.00353356890459	
+HP:0002719	Recurrent infections	0.00353356890459	
+HP:0000872	Hashimoto thyroiditis	0.00353356890459	
+HP:0002375	Hypokinesia	0.00353356890459	
+HP:0001392	Abnormality of the liver	0.00353356890459	
+HP:0002623	Overriding aorta	0.00353356890459	
+HP:0002027	Abdominal pain	0.00353356890459	
+HP:0001907	Thromboembolism	0.00353356890459	
+HP:0011604	Aortopulmonary window	0.00353356890459	
+HP:0006579	Prolonged neonatal jaundice	0.00353356890459	
+HP:0001682	Subvalvular aortic stenosis	0.00353356890459	
+HP:0011666	Absent right superior vena cava	0.00353356890459	
+HP:0100571	Cardiac diverticulum	0.00353356890459	
+HP:0006688	Paroxysmal tachycardia	0.00353356890459	
+HP:0005978	Type II diabetes mellitus	0.00353356890459	
+HP:0011950	Bronchiolitis	0.00353356890459	
+HP:0010702	Increased antibody level in blood	0.00353356890459	
+HP:0100544	Neoplasm of the heart	0.00353356890459	
+HP:0002036	Hiatus hernia	0.00353356890459	
+HP:0002039	Anorexia	0.00353356890459	
+HP:0012768	Neonatal asphyxia	0.00353356890459	
+HP:0002459	obsolete Dysautonomia	0.00353356890459	
+HP:0011461	Fetal onset	0.00353356890459	
+HP:0011662	Tricuspid atresia	0.00353356890459	
+HP:0010446	Tricuspid stenosis	0.00353356890459	
+HP:0002910	Elevated hepatic transaminase	0.00353356890459	
+HP:0001680	Coarctation of aorta	0.00353356890459	
+HP:0011567	Sinus venosus atrial septal defect	0.00353356890459	
+HP:0001259	Coma	0.00353356890459	
+HP:0007185	Loss of consciousness	0.00353356890459	
+HP:0000776	Congenital diaphragmatic hernia	0.00353356890459	
+HP:0001674	Complete atrioventricular canal defect	0.00353356890459	
+HP:0011621	Gerbode ventricular septal defect	0.00353356890459	
+HP:0006779	Alveolar rhabdomyosarcoma	0.00353356890459	
+HP:0011437	Maternal autoimmune disease	0.00353356890459	
+HP:0011947	Respiratory tract infection	0.00353356890459	
+HP:0002239	Gastrointestinal hemorrhage	0.00353356890459	
+HP:0000821	Hypothyroidism	0.00353356890459	
+HP:0100699	Scarring	0.00353356890459	
+HP:0002045	Hypothermia	0.00353356890459	
+HP:0003741	Congenital muscular dystrophy	0.00353356890459	
+HP:0005952	Decreased pulmonary function	0.00353356890459	
+HP:0003565	Elevated erythrocyte sedimentation rate	0.0017667844523	
+HP:0000729	Autistic behavior	0.0017667844523	
+HP:0002908	Conjugated hyperbilirubinemia	0.0017667844523	
+HP:0001339	Lissencephaly	0.0017667844523	
+HP:0001701	Pericarditis	0.0017667844523	
+HP:0002901	Hypocalcemia	0.0017667844523	
+HP:0008453	Congenital kyphoscoliosis	0.0017667844523	
+HP:0005134	Absence of the pulmonary valve	0.0017667844523	
+HP:0002088	Abnormal lung morphology	0.0017667844523	
+HP:0002089	Pulmonary hypoplasia	0.0017667844523	
+HP:0002245	Meckel diverticulum	0.0017667844523	
+HP:0002243	Protein-losing enteropathy	0.0017667844523	
+HP:0004860	Thiamine-responsive megaloblastic anemia	0.0017667844523	
+HP:0005141	obsolete Episodes of ventricular tachycardia	0.0017667844523	
+HP:0012050	Anasarca	0.0017667844523	
+HP:0005145	Coronary artery stenosis	0.0017667844523	
+HP:0012733	Macule	0.0017667844523	
+HP:0001962	Palpitations	0.0017667844523	
+HP:0009926	Epiphora	0.0017667844523	
+HP:0002011	Morphological abnormality of the central nervous system	0.0017667844523	
+HP:0040064	Abnormality of limbs	0.0017667844523	
+HP:0005912	Biliary atresia	0.0017667844523	
+HP:0012232	Shortened QT interval	0.0017667844523	
+HP:0010880	Increased nuchal translucency	0.0017667844523	
+HP:0002948	Vertebral fusion	0.0017667844523	
+HP:0100028	Ectopic thyroid	0.0017667844523	
+HP:0009005	Weakness of the intrinsic hand muscles	0.0017667844523	
+HP:0100021	Cerebral palsy	0.0017667844523	
+HP:0010239	Aplasia of the middle phalanx of the hand	0.0017667844523	
+HP:0011841	Ventricular flutter	0.0017667844523	
+HP:0000618	Blindness	0.0017667844523	
+HP:0200128	Biventricular hypertrophy	0.0017667844523	
+HP:0011110	Tonsillitis	0.0017667844523	
+HP:0002835	Aspiration	0.0017667844523	
+HP:0002613	Biliary cirrhosis	0.0017667844523	
+HP:0030084	Clinodactyly	0.0017667844523	
+HP:0002751	Kyphoscoliosis	0.0017667844523	
+HP:0002204	Pulmonary embolism	0.0017667844523	
+HP:0005295	Pseudocoarctation of the aorta	0.0017667844523	
+HP:0003234	Decreased plasma carnitine	0.0017667844523	
+HP:0003235	Hypermethioninemia	0.0017667844523	
+HP:0001281	Tetany	0.0017667844523	
+HP:0000832	Primary hypothyroidism	0.0017667844523	
+HP:0001289	Confusion	0.0017667844523	
+HP:0001097	Keratoconjunctivitis sicca	0.0017667844523	
+HP:0040189	Scaling skin	0.0017667844523	
+HP:0009827	Amelia	0.0017667844523	
+HP:0009829	Phocomelia	0.0017667844523	
+HP:0012089	Arteritis	0.0017667844523	
+HP:0003756	Skeletal myopathy	0.0017667844523	
+HP:0000407	Sensorineural hearing impairment	0.0017667844523	
+HP:0006562	Viral hepatitis	0.0017667844523	
+HP:0010566	Hamartoma	0.0017667844523	
+HP:0000125	Pelvic kidney	0.0017667844523	
+HP:0000123	Nephritis	0.0017667844523	
+HP:0003623	Neonatal onset	0.0017667844523	
+HP:0002573	Hematochezia	0.0017667844523	
+HP:0004313	Decreased antibody level in blood	0.0017667844523	
+HP:0001718	Mitral stenosis	0.0017667844523	
+HP:0200084	Giant cell hepatitis	0.0017667844523	
+HP:0001712	Left ventricular hypertrophy	0.0017667844523	
+HP:0011097	Epileptic spasms	0.0017667844523	
+HP:0001714	Ventricular hypertrophy	0.0017667844523	
+HP:0002870	Obstructive sleep apnea	0.0017667844523	
+HP:0011566	Cor triatriatum dexter	0.0017667844523	
+HP:0008245	Pituitary hypothyroidism	0.0017667844523	
+HP:0011641	Coronary artery fistula	0.0017667844523	
+HP:0011642	Abnormal coronary sinus morphology	0.0017667844523	
+HP:0002715	Abnormality of the immune system	0.0017667844523	
+HP:0002718	Recurrent bacterial infections	0.0017667844523	
+HP:0011787	Central hypothyroidism	0.0017667844523	
+HP:0001155	Abnormality of the hand	0.0017667844523	
+HP:0001156	Brachydactyly	0.0017667844523	
+HP:0011024	Abnormality of the gastrointestinal tract	0.0017667844523	
+HP:0000979	Purpura	0.0017667844523	
+HP:0011419	Placental abruption	0.0017667844523	
+HP:0002093	Respiratory insufficiency	0.0017667844523	
+HP:0002092	Pulmonary arterial hypertension	0.0017667844523	
+HP:0002157	Azotemia	0.0017667844523	
+HP:0003454	Platelet antibody positive	0.0017667844523	
+HP:0003306	Spinal rigidity	0.0017667844523	
+HP:0003307	Hyperlordosis	0.0017667844523	
+HP:0005155	Ventricular escape rhythm	0.0017667844523	
+HP:0001876	Pancytopenia	0.0017667844523	
+HP:0012382	Left-to-right shunt	0.0017667844523	
+HP:0007754	Macular dystrophy	0.0017667844523	
+HP:0012418	Hypoxemia	0.0017667844523	
+HP:0004279	Short palm	0.0017667844523	
+HP:0012416	Hypercapnia	0.0017667844523	
+HP:0012410	Pure red cell aplasia	0.0017667844523	
+HP:0001900	Increased hemoglobin	0.0017667844523	
+HP:0012900	Myotonia of the face	0.0017667844523	
+HP:0007371	Corpus callosum atrophy	0.0017667844523	
+HP:0006677	Prolonged QRS complex	0.0017667844523	
+HP:0009370	Type A brachydactyly	0.0017667844523	
+HP:0012251	ST segment elevation	0.0017667844523	
+HP:0011581	Double outlet left ventricle	0.0017667844523	
+HP:0011995	Atrial septal dilatation	0.0017667844523	
+HP:0010445	Primum atrial septal defect	0.0017667844523	
+HP:0003829	Incomplete penetrance	0.0017667844523	
+HP:0003828	Variable expressivity	0.0017667844523	
+HP:0100579	Mucosal telangiectasiae	0.0017667844523	
+HP:0010497	Sirenomelia	0.0017667844523	
+HP:0000752	Hyperactivity	0.0017667844523	
+HP:0002105	Hemoptysis	0.0017667844523	
+HP:0002104	Apnea	0.0017667844523	
+HP:0004395	Malnutrition	0.0017667844523	
+HP:0003764	Nevus	0.0017667844523	
+HP:0001942	Metabolic acidosis	0.0017667844523	
+HP:0001941	Acidosis	0.0017667844523	
+HP:0007340	Lower limb muscle weakness	0.0017667844523	
+HP:0009882	Short distal phalanx of finger	0.0017667844523	
+HP:0010772	Anomalous pulmonary venous return	0.0017667844523	
+HP:0010677	Enuresis nocturna	0.0017667844523	
+HP:0003040	Arthropathy	0.0017667844523	
+HP:0003613	Antiphospholipid antibody positivity	0.0017667844523	
+HP:0001562	Oligohydramnios	0.0017667844523	
+HP:0000486	Strabismus	0.0017667844523	
+HP:0000708	Behavioral abnormality	0.0017667844523	
+HP:0001762	Talipes equinovarus	0.0017667844523	
+HP:0100651	Type I diabetes mellitus	0.0017667844523	
+HP:0004398	Peptic ulcer	0.0017667844523	
+HP:0006685	Endocardial fibrosis	0.0017667844523	
+HP:0001009	Telangiectasia	0.0017667844523	
+HP:0004900	Severe lactic acidosis	0.0017667844523	
+HP:0002791	Hypoventilation	0.0017667844523	
+HP:0011134	Low-grade fever	0.0017667844523	
+HP:0011420	Age of death	0.0017667844523	
+HP:0003812	Phenotypic variability	0.0017667844523	
+HP:0006748	Adrenal pheochromocytoma	0.0017667844523	
+HP:0003546	Exercise intolerance	0.0017667844523	
+HP:0002383	Encephalitis	0.0017667844523	
+HP:0002384	Focal impaired awareness seizure	0.0017667844523	
+HP:0001262	Excessive daytime somnolence	0.0017667844523	
+HP:0000992	Cutaneous photosensitivity	0.0017667844523	
+HP:0005162	Left ventricular failure	0.0017667844523	
+HP:0000519	Congenital cataract	0.0017667844523	
+HP:0002138	Subarachnoid hemorrhage	0.0017667844523	
+HP:0012398	Peripheral edema	0.0017667844523	
+HP:0004602	Cervical C2/C3 vertebral fusion	0.0017667844523	
+HP:0002797	Osteolysis	0.0017667844523	
+HP:0001217	Clubbing	0.0017667844523	
+HP:0000034	Hydrocele testis	0.0017667844523	
+HP:0001919	Acute kidney injury	0.0017667844523	
+HP:0100759	Clubbing of fingers	0.0017667844523	
+HP:0000421	Epistaxis	0.0017667844523	
+HP:0011611	Interrupted aortic arch	0.0017667844523	
+HP:0010741	Edema of the lower limbs	0.0017667844523	
+HP:0012248	Prolonged PR interval	0.0017667844523	
+HP:0010628	Facial palsy	0.0017667844523	
+HP:0002597	Abnormality of the vasculature	0.0017667844523	
+HP:0003811	Neonatal death	0.0017667844523	
+HP:0006785	Limb-girdle muscular dystrophy	0.0017667844523	
+HP:0004942	Aortic aneurysm	0.0017667844523	
+HP:0001057	Aplasia cutis congenita	0.0017667844523	
+HP:0009702	Carpal synostosis	0.0017667844523	
+HP:0010444	Pulmonary insufficiency	0.0017667844523	
+HP:0004809	Neonatal alloimmune thrombocytopenia	0.0017667844523	
+HP:0000716	Depressivity	0.0017667844523	
+HP:0005214	Intestinal obstruction	0.0017667844523	
+HP:0001788	Premature rupture of membranes	0.0017667844523	
+HP:0004960	Absent pulmonary artery	0.0017667844523	
+HP:0009800	Maternal diabetes	0.0017667844523	
+HP:0012668	Vasovagal syncope	0.0017667844523	
+HP:0012723	Sinoatrial block	0.0017667844523	
+HP:0100790	Hernia	0.0017667844523	
+HP:0001818	Paronychia	0.0017667844523	
+HP:0030049	Brain abscess	0.0017667844523	
+HP:0000491	Keratitis	0.0017667844523	
+HP:0012539	Non-Hodgkin lymphoma	0.0017667844523	
+HP:0000774	Narrow chest	0.0017667844523	
+HP:0000775	Abnormality of the diaphragm	0.0017667844523	
+HP:0000772	Abnormality of the ribs	0.0017667844523	
+HP:0000470	Short neck	0.0017667844523	
+HP:0011625	Multiple muscular ventricular septal defects	0.0017667844523	
+HP:0100647	Graves disease	0.0017667844523	
+HP:0010241	Short proximal phalanx of finger	0.0017667844523	
+HP:0006698	Dilatation of the ventricular cavity	0.0017667844523	
+HP:0003394	Muscle cramps	0.0017667844523	
+HP:0000851	Congenital hypothyroidism	0.0017667844523	
+HP:0010882	Pulmonary valve atresia	0.0017667844523	
+HP:0004935	Pulmonary artery atresia	0.0017667844523	
+HP:0200039	Pustule	0.0017667844523	
+HP:0002783	Recurrent lower respiratory tract infections	0.0017667844523	
+HP:0002829	Arthralgia	0.0017667844523	
+HP:0012304	Hypoplastic aortic arch	0.0017667844523	
+HP:0002236	Frontal upsweep of hair	0.0017667844523	
+HP:0003326	Myalgia	0.0017667844523	
+HP:0001954	Episodic fever	0.0017667844523	
+HP:0100026	Arteriovenous malformation	0.0017667844523	
+HP:0001999	Abnormal facial shape	0.0017667844523	
+HP:0005696	Postaxial polydactyly type A	0.0017667844523	
+HP:0002121	Absence seizures	0.0017667844523	
+HP:0002123	Generalized myoclonic seizures	0.0017667844523	
+HP:0002282	Heterotopia	0.0017667844523	
+HP:0004755	Supraventricular tachycardia	0.0017667844523	
+HP:0004751	Paroxysmal ventricular tachycardia	0.0017667844523	
+HP:0004752	Congenital atrioventricular dissociation	0.0017667844523	
+HP:0030127	Endometriosis	0.0017667844523	
+HP:0001204	Distal symphalangism of hands	0.0017667844523	
+HP:0000007	Autosomal recessive inheritance	0.0017667844523	
+HP:0001634	Mitral valve prolapse	0.0017667844523	
+HP:0100603	Toxemia of pregnancy	0.0017667844523	
+HP:0100608	Metrorrhagia	0.0017667844523	
+HP:0003737	Mitochondrial myopathy	0.0017667844523	
